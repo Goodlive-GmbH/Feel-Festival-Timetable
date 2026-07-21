@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;600;800&display=swap');
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@theme {
+	--color-fest-text: #142c50;
+	--color-fest-widget: #eceed9;
+	--color-fest-logo: #f3a0a2;
+	--color-fest-blue: #2c53de;
+	--color-fest-beige: #e0dccc;
+	--color-fest-turquoise: #7be0e4;
+	--color-fest-cyan: #3dc6f5;
+	--color-fest-teal: #38909f;
+	--color-fest-dark-teal: #236a88;
+	--color-fest-green-teal: #64b09c;
+
+	--color-fest-day-blue: #2232b4;
+	--color-fest-day-teal: #64cfce;
+
+	--font-neo-heading: 'Space Mono', monospace;
+	--font-neo-body: 'Inter', sans-serif;
+}
+
+@layer base {
+	body {
+		@apply bg-fest-text font-neo-body text-fest-widget;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		@apply font-neo-heading font-bold uppercase;
+	}
+
+	.fest-button {
+		@apply border border-fest-dark-teal bg-fest-beige px-6 py-2 font-neo-heading font-bold text-fest-text uppercase transition-all duration-200 hover:bg-fest-widget;
+	}
+}

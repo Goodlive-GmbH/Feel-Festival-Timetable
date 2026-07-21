@@ -1,0 +1,604 @@
+[
+	{
+		"seedVersion": 5,
+		"stages": [
+			{ "id": "stage-main", "name": "Main Stage", "color": "bg-fest-blue", "x": 0.5, "y": 0.28 },
+			{
+				"id": "stage-forest",
+				"name": "Forest Floor",
+				"color": "bg-fest-dark-teal",
+				"x": 0.22,
+				"y": 0.4
+			},
+			{ "id": "stage-club", "name": "Club Tent", "color": "bg-fest-teal", "x": 0.72, "y": 0.42 },
+			{
+				"id": "stage-lake",
+				"name": "Lake View",
+				"color": "bg-fest-green-teal",
+				"x": 0.82,
+				"y": 0.68
+			},
+			{ "id": "stage-workshop", "name": "Workshop", "color": "bg-fest-beige", "x": 0.38, "y": 0.6 },
+			{
+				"id": "stage-neon",
+				"name": "Neon Dome",
+				"color": "bg-fest-turquoise",
+				"x": 0.6,
+				"y": 0.52
+			},
+			{
+				"id": "stage-acoustic",
+				"name": "Acoustic Grove",
+				"color": "bg-fest-blue",
+				"x": 0.16,
+				"y": 0.66
+			},
+			{
+				"id": "stage-sunrise",
+				"name": "Sunrise Deck",
+				"color": "bg-fest-dark-teal",
+				"x": 0.68,
+				"y": 0.24
+			},
+			{
+				"id": "stage-secret",
+				"name": "Secret Bunker",
+				"color": "bg-fest-teal",
+				"x": 0.44,
+				"y": 0.78
+			},
+			{
+				"id": "stage-chill",
+				"name": "Chill Out Zone",
+				"color": "bg-fest-beige",
+				"x": 0.3,
+				"y": 0.5
+			}
+		],
+		"pois": [
+			{ "id": "poi-entrance", "name": "Haupteingang", "type": "entrance", "x": 0.5, "y": 0.94 },
+			{ "id": "poi-food-1", "name": "Food Court", "type": "food", "x": 0.55, "y": 0.66 },
+			{ "id": "poi-food-2", "name": "Foodtrucks Nord", "type": "food", "x": 0.34, "y": 0.32 },
+			{ "id": "poi-wc-1", "name": "Toiletten West", "type": "wc", "x": 0.24, "y": 0.54 },
+			{ "id": "poi-wc-2", "name": "Toiletten Ost", "type": "wc", "x": 0.76, "y": 0.56 },
+			{ "id": "poi-medical", "name": "Sanitäter", "type": "medical", "x": 0.46, "y": 0.88 },
+			{ "id": "poi-water", "name": "Trinkwasser", "type": "water", "x": 0.62, "y": 0.72 },
+			{ "id": "poi-info", "name": "Infopoint", "type": "info", "x": 0.54, "y": 0.86 },
+			{ "id": "poi-camping", "name": "Campingplatz", "type": "camping", "x": 0.15, "y": 0.15 }
+		],
+		"artists": [
+			{
+				"id": "art-yoga",
+				"name": "Morgen Yoga mit Clara",
+				"type": "Rahmenprogramm",
+				"genre": "Wellness"
+			},
+			{
+				"id": "art-soundbath",
+				"name": "Soundbath Meditation",
+				"type": "Rahmenprogramm",
+				"genre": "Wellness"
+			},
+			{
+				"id": "art-poetry",
+				"name": "Poetry Slam mit Felix",
+				"type": "Rahmenprogramm",
+				"genre": "Poetry"
+			},
+			{ "id": "art-filz", "name": "Filzwerkstatt", "type": "Rahmenprogramm", "genre": "Workshop" },
+			{
+				"id": "art-philo",
+				"name": "Philosophisches Café",
+				"type": "Rahmenprogramm",
+				"genre": "Talk"
+			},
+			{ "id": "art-newdad", "name": "NewDad", "type": "Live", "genre": "Indie Rock" },
+			{ "id": "art-glassbeach", "name": "glass beach", "type": "Live", "genre": "Indie Rock" },
+			{ "id": "art-fenster", "name": "Fenster", "type": "Live", "genre": "Post-Punk" },
+			{ "id": "art-squid", "name": "Squid", "type": "Live", "genre": "Post-Punk" },
+			{ "id": "art-bcnr", "name": "Black Country, New Road", "type": "Live", "genre": "Post-Punk" },
+			{ "id": "art-caribou", "name": "Caribou", "type": "Live", "genre": "Electronic" },
+			{ "id": "art-kettcar", "name": "Kettcar", "type": "Live", "genre": "Indie Rock" },
+			{ "id": "art-nerven", "name": "Die Nerven", "type": "Live", "genre": "Post-Punk" },
+			{ "id": "art-fontaines", "name": "Fontaines D.C.", "type": "Live", "genre": "Post-Punk" },
+			{
+				"id": "art-kglw",
+				"name": "King Gizzard & The Lizard Wizard",
+				"type": "Live",
+				"genre": "Psychedelic Rock"
+			},
+			{ "id": "art-jazz", "name": "Jazz Kollektiv", "type": "Live", "genre": "Jazz" },
+			{ "id": "art-python", "name": "DJ Python", "type": "DJ", "genre": "Deep Reggaeton" },
+			{ "id": "art-mala", "name": "Mala Junta", "type": "DJ", "genre": "Techno" },
+			{ "id": "art-objectblue", "name": "object blue", "type": "DJ", "genre": "Techno" },
+			{ "id": "art-klara", "name": "Klara Nord", "type": "DJ", "genre": "House" },
+			{ "id": "art-skin", "name": "Skin on Skin", "type": "DJ", "genre": "House" },
+			{ "id": "art-friction", "name": "DJ Friction", "type": "DJ", "genre": "Drum & Bass" },
+			{ "id": "art-marcel", "name": "Marcel Dettmann", "type": "DJ", "genre": "Techno" },
+			{ "id": "art-kiki", "name": "KI/KI", "type": "DJ", "genre": "Techno" },
+			{ "id": "art-helena", "name": "Helena Hauff", "type": "DJ", "genre": "Electro" },
+			{ "id": "art-misha", "name": "Misha Conducta", "type": "DJ", "genre": "House" },
+			{ "id": "art-warmup", "name": "Warm-up DJ", "type": "DJ", "genre": "Ambient" },
+			{ "id": "art-sunrise", "name": "Sunrise Selector", "type": "DJ", "genre": "House" },
+			{ "id": "art-anika", "name": "Anika", "type": "DJ", "genre": "Techno" },
+			{ "id": "art-benufo", "name": "Ben UFO", "type": "DJ", "genre": "House" },
+			{ "id": "art-fredagain", "name": "Fred again..", "type": "Live", "genre": "Electronic" },
+			{ "id": "art-eartheater", "name": "Eartheater", "type": "Live", "genre": "Experimental" },
+			{ "id": "art-moin", "name": "Moin", "type": "Live", "genre": "Post-Punk" },
+			{ "id": "art-talib", "name": "Talib Kweli", "type": "Live", "genre": "Hip Hop" },
+			{ "id": "art-mala2", "name": "Mala", "type": "DJ", "genre": "Dubstep" }
+		],
+		"performances": [
+			{
+				"id": "perf-yoga-1",
+				"stageId": "stage-workshop",
+				"artistId": "art-yoga",
+				"startTime": "2026-07-17T10:00:00+02:00",
+				"endTime": "2026-07-17T11:30:00+02:00",
+				"info": "Starte deinen Festivaltag entspannt: 90 Minuten sanftes Hatha-Yoga mit Clara auf der Wiese. Bitte eigene Matte mitbringen. Für alle Level geeignet – auch komplette Anfänger:innen sind willkommen."
+			},
+			{
+				"id": "perf-soundbath",
+				"stageId": "stage-workshop",
+				"artistId": "art-soundbath",
+				"startTime": "2026-07-17T12:00:00+02:00",
+				"endTime": "2026-07-17T13:30:00+02:00"
+			},
+			{
+				"id": "perf-poetry",
+				"stageId": "stage-workshop",
+				"artistId": "art-poetry",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00",
+				"info": "Felix und Gäste liefern messerscharfe Texte zwischen Komik und Tiefgang. Wer selbst auf die Bühne will: Am Anfang gibt es eine offene Liste für spontane Beiträge."
+			},
+			{
+				"id": "perf-filz",
+				"stageId": "stage-workshop",
+				"artistId": "art-filz",
+				"startTime": "2026-07-17T16:00:00+02:00",
+				"endTime": "2026-07-17T17:30:00+02:00"
+			},
+			{
+				"id": "perf-philo",
+				"stageId": "stage-workshop",
+				"artistId": "art-philo",
+				"startTime": "2026-07-17T18:00:00+02:00",
+				"endTime": "2026-07-17T19:30:00+02:00"
+			},
+			{
+				"id": "perf-newdad",
+				"stageId": "stage-lake",
+				"artistId": "art-newdad",
+				"startTime": "2026-07-17T11:00:00+02:00",
+				"endTime": "2026-07-17T12:30:00+02:00"
+			},
+			{
+				"id": "perf-glassbeach",
+				"stageId": "stage-lake",
+				"artistId": "art-glassbeach",
+				"startTime": "2026-07-17T13:00:00+02:00",
+				"endTime": "2026-07-17T14:30:00+02:00"
+			},
+			{
+				"id": "perf-fenster",
+				"stageId": "stage-lake",
+				"artistId": "art-fenster",
+				"startTime": "2026-07-17T15:00:00+02:00",
+				"endTime": "2026-07-17T16:30:00+02:00"
+			},
+			{
+				"id": "perf-squid",
+				"stageId": "stage-lake",
+				"artistId": "art-squid",
+				"startTime": "2026-07-17T17:00:00+02:00",
+				"endTime": "2026-07-17T18:30:00+02:00"
+			},
+			{
+				"id": "perf-bcnr",
+				"stageId": "stage-lake",
+				"artistId": "art-bcnr",
+				"startTime": "2026-07-17T19:00:00+02:00",
+				"endTime": "2026-07-17T20:30:00+02:00",
+				"info": "Black Country, New Road kehren mit neuem Line-up und komplett neuem Material zurück. Erwartet ein hochemotionales Set mit Klavier, Bläsern und Chorgesang – einer der Höhepunkte des Wochenendes am See."
+			},
+			{
+				"id": "perf-caribou-lake",
+				"stageId": "stage-lake",
+				"artistId": "art-caribou",
+				"startTime": "2026-07-17T21:00:00+02:00",
+				"endTime": "2026-07-17T23:00:00+02:00",
+				"info": "Dan Snaith bringt sein legendäres Live-Set an den See. Freut euch auf euphorische Electronica, warme Synths und eine Lichtshow, die perfekt zur Dämmerung passt."
+			},
+			{
+				"id": "perf-jazz",
+				"stageId": "stage-acoustic",
+				"artistId": "art-jazz",
+				"startTime": "2026-07-17T12:00:00+02:00",
+				"endTime": "2026-07-17T13:30:00+02:00"
+			},
+			{
+				"id": "perf-eartheater",
+				"stageId": "stage-acoustic",
+				"artistId": "art-eartheater",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00"
+			},
+			{
+				"id": "perf-kglw",
+				"stageId": "stage-acoustic",
+				"artistId": "art-kglw",
+				"startTime": "2026-07-17T16:00:00+02:00",
+				"endTime": "2026-07-17T18:00:00+02:00"
+			},
+			{
+				"id": "perf-nerven",
+				"stageId": "stage-acoustic",
+				"artistId": "art-nerven",
+				"startTime": "2026-07-17T18:30:00+02:00",
+				"endTime": "2026-07-17T20:30:00+02:00"
+			},
+			{
+				"id": "perf-moin",
+				"stageId": "stage-acoustic",
+				"artistId": "art-moin",
+				"startTime": "2026-07-17T21:00:00+02:00",
+				"endTime": "2026-07-17T22:30:00+02:00"
+			},
+			{
+				"id": "perf-kettcar",
+				"stageId": "stage-main",
+				"artistId": "art-kettcar",
+				"startTime": "2026-07-17T15:00:00+02:00",
+				"endTime": "2026-07-17T16:30:00+02:00"
+			},
+			{
+				"id": "perf-fontaines",
+				"stageId": "stage-main",
+				"artistId": "art-fontaines",
+				"startTime": "2026-07-17T17:00:00+02:00",
+				"endTime": "2026-07-17T19:00:00+02:00",
+				"info": "Die Dubliner Post-Punk-Sensation live auf der Main Stage. Nach ihrem gefeierten Album erwartet euch ein energiegeladenes Set voller Hits – Moshpit-Gefahr garantiert."
+			},
+			{
+				"id": "perf-caribou-main",
+				"stageId": "stage-main",
+				"artistId": "art-caribou",
+				"startTime": "2026-07-17T19:30:00+02:00",
+				"endTime": "2026-07-17T21:00:00+02:00"
+			},
+			{
+				"id": "perf-helena-main",
+				"stageId": "stage-main",
+				"artistId": "art-helena",
+				"startTime": "2026-07-17T23:00:00+02:00",
+				"endTime": "2026-07-18T01:00:00+02:00"
+			},
+			{
+				"id": "perf-python",
+				"stageId": "stage-forest",
+				"artistId": "art-python",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T16:00:00+02:00",
+				"info": "DJ Python verschmilzt Deep Reggaeton, Ambient und Dembow zu einem hypnotischen Nachmittags-Set zwischen den Bäumen. Perfekt zum Reinkommen in die Forest-Floor-Nacht."
+			},
+			{
+				"id": "perf-mala",
+				"stageId": "stage-forest",
+				"artistId": "art-mala",
+				"startTime": "2026-07-17T16:30:00+02:00",
+				"endTime": "2026-07-17T18:30:00+02:00"
+			},
+			{
+				"id": "perf-objectblue",
+				"stageId": "stage-forest",
+				"artistId": "art-objectblue",
+				"startTime": "2026-07-17T19:00:00+02:00",
+				"endTime": "2026-07-17T21:00:00+02:00"
+			},
+			{
+				"id": "perf-klara-forest",
+				"stageId": "stage-forest",
+				"artistId": "art-klara",
+				"startTime": "2026-07-17T21:30:00+02:00",
+				"endTime": "2026-07-17T23:30:00+02:00"
+			},
+			{
+				"id": "perf-skin-forest",
+				"stageId": "stage-forest",
+				"artistId": "art-skin",
+				"startTime": "2026-07-18T00:00:00+02:00",
+				"endTime": "2026-07-18T02:30:00+02:00"
+			},
+			{
+				"id": "perf-kiki-forest",
+				"stageId": "stage-forest",
+				"artistId": "art-kiki",
+				"startTime": "2026-07-18T03:00:00+02:00",
+				"endTime": "2026-07-18T05:00:00+02:00"
+			},
+			{
+				"id": "perf-warmup",
+				"stageId": "stage-club",
+				"artistId": "art-warmup",
+				"startTime": "2026-07-17T16:00:00+02:00",
+				"endTime": "2026-07-17T18:00:00+02:00"
+			},
+			{
+				"id": "perf-friction",
+				"stageId": "stage-club",
+				"artistId": "art-friction",
+				"startTime": "2026-07-17T18:30:00+02:00",
+				"endTime": "2026-07-17T20:30:00+02:00"
+			},
+			{
+				"id": "perf-marcel",
+				"stageId": "stage-club",
+				"artistId": "art-marcel",
+				"startTime": "2026-07-17T21:00:00+02:00",
+				"endTime": "2026-07-17T23:00:00+02:00",
+				"info": "Berghain-Resident Marcel Dettmann bringt kompromisslosen, hypnotischen Techno ins Club Tent. Zwei Stunden treibende Beats für die harte Kern-Crew."
+			},
+			{
+				"id": "perf-kiki-club",
+				"stageId": "stage-club",
+				"artistId": "art-kiki",
+				"startTime": "2026-07-17T23:30:00+02:00",
+				"endTime": "2026-07-18T02:00:00+02:00"
+			},
+			{
+				"id": "perf-anika-club",
+				"stageId": "stage-club",
+				"artistId": "art-anika",
+				"startTime": "2026-07-18T02:30:00+02:00",
+				"endTime": "2026-07-18T05:00:00+02:00"
+			},
+			{
+				"id": "perf-misha",
+				"stageId": "stage-neon",
+				"artistId": "art-misha",
+				"startTime": "2026-07-17T17:00:00+02:00",
+				"endTime": "2026-07-17T19:00:00+02:00"
+			},
+			{
+				"id": "perf-helena-neon",
+				"stageId": "stage-neon",
+				"artistId": "art-helena",
+				"startTime": "2026-07-17T19:30:00+02:00",
+				"endTime": "2026-07-17T21:30:00+02:00",
+				"info": "Helena Hauff legt roh und analog auf: Electro, Acid und EBM ohne Laptop, nur Vinyl und Drum Machines. Ein Set für alle, die es dreckig und schnell mögen."
+			},
+			{
+				"id": "perf-skin-neon",
+				"stageId": "stage-neon",
+				"artistId": "art-skin",
+				"startTime": "2026-07-17T22:00:00+02:00",
+				"endTime": "2026-07-18T00:00:00+02:00"
+			},
+			{
+				"id": "perf-marcel-neon",
+				"stageId": "stage-neon",
+				"artistId": "art-marcel",
+				"startTime": "2026-07-18T00:30:00+02:00",
+				"endTime": "2026-07-18T02:30:00+02:00"
+			},
+			{
+				"id": "perf-benufo-neon",
+				"stageId": "stage-neon",
+				"artistId": "art-benufo",
+				"startTime": "2026-07-18T03:00:00+02:00",
+				"endTime": "2026-07-18T05:00:00+02:00"
+			},
+			{
+				"id": "perf-python-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-python",
+				"startTime": "2026-07-17T22:00:00+02:00",
+				"endTime": "2026-07-18T00:00:00+02:00"
+			},
+			{
+				"id": "perf-objectblue-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-objectblue",
+				"startTime": "2026-07-18T00:30:00+02:00",
+				"endTime": "2026-07-18T02:30:00+02:00"
+			},
+			{
+				"id": "perf-klara-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-klara",
+				"startTime": "2026-07-18T03:00:00+02:00",
+				"endTime": "2026-07-18T05:30:00+02:00"
+			},
+			{
+				"id": "perf-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-sunrise",
+				"startTime": "2026-07-18T05:30:00+02:00",
+				"endTime": "2026-07-18T07:00:00+02:00"
+			},
+			{
+				"id": "perf-yoga-2",
+				"stageId": "stage-workshop",
+				"artistId": "art-yoga",
+				"startTime": "2026-07-18T08:00:00+02:00",
+				"endTime": "2026-07-18T09:30:00+02:00"
+			},
+			{
+				"id": "perf-fredagain-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-fredagain",
+				"startTime": "2026-07-17T20:00:00+02:00",
+				"endTime": "2026-07-17T22:00:00+02:00"
+			},
+			{
+				"id": "perf-talib-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-talib",
+				"startTime": "2026-07-17T22:30:00+02:00",
+				"endTime": "2026-07-18T00:30:00+02:00"
+			},
+			{
+				"id": "perf-mala2-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-mala2",
+				"startTime": "2026-07-18T01:00:00+02:00",
+				"endTime": "2026-07-18T03:00:00+02:00"
+			},
+			{
+				"id": "perf-objectblue-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-objectblue",
+				"startTime": "2026-07-18T03:30:00+02:00",
+				"endTime": "2026-07-18T06:00:00+02:00"
+			},
+			{
+				"id": "perf-benufo-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-benufo",
+				"startTime": "2026-07-17T20:00:00+02:00",
+				"endTime": "2026-07-17T22:00:00+02:00"
+			},
+			{
+				"id": "perf-anika-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-anika",
+				"startTime": "2026-07-17T22:30:00+02:00",
+				"endTime": "2026-07-18T00:30:00+02:00"
+			},
+			{
+				"id": "perf-skin-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-skin",
+				"startTime": "2026-07-18T01:00:00+02:00",
+				"endTime": "2026-07-18T03:00:00+02:00"
+			},
+			{
+				"id": "perf-klara-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-klara",
+				"startTime": "2026-07-18T03:30:00+02:00",
+				"endTime": "2026-07-18T06:00:00+02:00"
+			},
+			{
+				"id": "perf-talib-main",
+				"stageId": "stage-main",
+				"artistId": "art-talib",
+				"startTime": "2026-07-17T13:00:00+02:00",
+				"endTime": "2026-07-17T14:30:00+02:00"
+			},
+			{
+				"id": "perf-glassbeach-club",
+				"stageId": "stage-club",
+				"artistId": "art-glassbeach",
+				"startTime": "2026-07-17T12:00:00+02:00",
+				"endTime": "2026-07-17T13:30:00+02:00"
+			},
+			{
+				"id": "perf-squid-club",
+				"stageId": "stage-club",
+				"artistId": "art-squid",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00"
+			},
+			{
+				"id": "perf-newdad-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-newdad",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00"
+			},
+			{
+				"id": "perf-eartheater-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-eartheater",
+				"startTime": "2026-07-17T16:00:00+02:00",
+				"endTime": "2026-07-17T17:30:00+02:00"
+			},
+			{
+				"id": "perf-jazz-chill",
+				"stageId": "stage-chill",
+				"artistId": "art-jazz",
+				"startTime": "2026-07-17T18:00:00+02:00",
+				"endTime": "2026-07-17T19:30:00+02:00"
+			},
+			{
+				"id": "perf-fenster-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-fenster",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00"
+			},
+			{
+				"id": "perf-nerven-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-nerven",
+				"startTime": "2026-07-17T16:00:00+02:00",
+				"endTime": "2026-07-17T17:30:00+02:00"
+			},
+			{
+				"id": "perf-bcnr-secret",
+				"stageId": "stage-secret",
+				"artistId": "art-bcnr",
+				"startTime": "2026-07-17T18:00:00+02:00",
+				"endTime": "2026-07-17T19:30:00+02:00"
+			},
+			{
+				"id": "perf-fontaines-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-fontaines",
+				"startTime": "2026-07-17T12:00:00+02:00",
+				"endTime": "2026-07-17T13:30:00+02:00"
+			},
+			{
+				"id": "perf-moin-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-moin",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00"
+			},
+			{
+				"id": "perf-squid-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-squid",
+				"startTime": "2026-07-17T16:00:00+02:00",
+				"endTime": "2026-07-17T17:30:00+02:00"
+			},
+			{
+				"id": "perf-kettcar-sunrise",
+				"stageId": "stage-sunrise",
+				"artistId": "art-kettcar",
+				"startTime": "2026-07-17T18:00:00+02:00",
+				"endTime": "2026-07-17T19:30:00+02:00"
+			},
+			{
+				"id": "perf-mala-neon",
+				"stageId": "stage-neon",
+				"artistId": "art-mala",
+				"startTime": "2026-07-17T14:00:00+02:00",
+				"endTime": "2026-07-17T15:30:00+02:00"
+			},
+			{
+				"id": "perf-friction-neon",
+				"stageId": "stage-neon",
+				"artistId": "art-friction",
+				"startTime": "2026-07-17T15:30:00+02:00",
+				"endTime": "2026-07-17T16:30:00+02:00"
+			},
+			{
+				"id": "perf-anika-forest",
+				"stageId": "stage-forest",
+				"artistId": "art-anika",
+				"startTime": "2026-07-17T12:00:00+02:00",
+				"endTime": "2026-07-17T13:30:00+02:00"
+			},
+			{
+				"id": "perf-mala2-forest",
+				"stageId": "stage-forest",
+				"artistId": "art-mala2",
+				"startTime": "2026-07-17T22:00:00+02:00",
+				"endTime": "2026-07-17T23:30:00+02:00"
+			}
+		]
+	}
+]

@@ -1,0 +1,10 @@
+{
+  "GRID_W": 8192,
+  "GRID_H": 8192,
+  "PAD_X": 383.5,
+  "PAD_Y": 1456,
+  "IMG_W": 7425,
+  "IMG_H": 5280,
+  "TILE_SIZE": 512,
+  "MAX_ZOOM": 3
+}

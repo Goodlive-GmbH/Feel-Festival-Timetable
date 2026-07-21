@@ -1,0 +1,4200 @@
+[
+  {
+    "stages": [
+      {
+        "id": "stage-dampfer",
+        "name": "Dampfer",
+        "color": "bg-fest-blue",
+        "order": 9,
+        "x": 0.390,
+        "y": 0.772
+      },
+      {
+        "id": "stage-garage",
+        "name": "Garage",
+        "color": "bg-fest-dark-teal",
+        "order": 11,
+        "x": 0.462,
+        "y": 0.570
+      },
+      {
+        "id": "stage-hohe-du-ne",
+        "name": "Hohe Düne",
+        "color": "bg-fest-teal",
+        "order": 0,
+        "x": 0.996,
+        "y": 0.655
+      },
+      {
+        "id": "stage-lichterwalde",
+        "name": "Lichterwalde",
+        "color": "bg-fest-green-teal",
+        "order": 3,
+        "x": 0.752,
+        "y": 0.351
+      },
+      {
+        "id": "stage-manege",
+        "name": "Manege",
+        "color": "bg-fest-beige",
+        "order": 10,
+        "x": 0.73,
+        "y": 0.395
+      },
+      {
+        "id": "stage-motel53",
+        "name": "Motel53",
+        "color": "bg-fest-turquoise",
+        "order": 5,
+        "x": 0.982,
+        "y": 0.546
+      },
+      {
+        "id": "stage-rakete",
+        "name": "Rakete",
+        "color": "bg-fest-blue",
+        "order": 8,
+        "x": 0.607,
+        "y": 0.335
+      },
+      {
+        "id": "stage-spa-ti36",
+        "name": "Späti36",
+        "color": "bg-fest-dark-teal",
+        "order": 6,
+        "x": 0.668,
+        "y": 0.350
+      },
+      {
+        "id": "stage-strand",
+        "name": "Strand",
+        "color": "bg-fest-teal",
+        "order": 2,
+        "x": 0.390,
+        "y": 0.607
+      },
+      {
+        "id": "stage-wagenburg",
+        "name": "Wagenburg",
+        "color": "bg-fest-green-teal",
+        "order": 1,
+        "x": 0.640,
+        "y": 0.478
+      },
+      {
+        "id": "stage-xberg",
+        "name": "Xberg",
+        "color": "bg-fest-beige",
+        "order": 7,
+        "x": 0.591,
+        "y": 0.381
+      },
+      {
+        "id": "stage-zauberwald",
+        "name": "Zauberwald",
+        "color": "bg-fest-turquoise",
+        "order": 4,
+        "x": 0.624,
+        "y": 0.269
+      }
+    ],
+    "artists": [
+      {
+        "id": "art-flinta-open-decks",
+        "name": "Flinta Open decks",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ene-h",
+        "name": "Enèh",
+        "genre": "Various"
+      },
+      {
+        "id": "art-der-mette",
+        "name": "der Mette",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-palga",
+        "name": "DJ Palga",
+        "genre": "Various"
+      },
+      {
+        "id": "art-leon-dumeier",
+        "name": "Leon Dumeier",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jemski",
+        "name": "Jemski",
+        "genre": "Various"
+      },
+      {
+        "id": "art-nautylus",
+        "name": "Nautylus",
+        "genre": "Various"
+      },
+      {
+        "id": "art-schwesta-p",
+        "name": "Schwesta P",
+        "genre": "Various"
+      },
+      {
+        "id": "art-unfiltered",
+        "name": "Unfiltered",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-cringey",
+        "name": "DJ Cringey",
+        "genre": "Various"
+      },
+      {
+        "id": "art-gloria-rose",
+        "name": "Gloria Rose",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lino-l-amour",
+        "name": "Lino L´amour",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ether-o",
+        "name": "Ether O",
+        "genre": "Various"
+      },
+      {
+        "id": "art-felix-spethmann",
+        "name": "Felix Spethmann",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ukai-b2b-walter-griot",
+        "name": "Ukai b2b Walter Griot",
+        "genre": "Various"
+      },
+      {
+        "id": "art-arninho",
+        "name": "Arninho",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tekkida",
+        "name": "Tekkida",
+        "genre": "Various"
+      },
+      {
+        "id": "art-damian-mono",
+        "name": "Damian Mono",
+        "genre": "Various"
+      },
+      {
+        "id": "art-shoki",
+        "name": "Shoki",
+        "genre": "Various"
+      },
+      {
+        "id": "art-arpy-brown",
+        "name": "Arpy Brown",
+        "genre": "Various"
+      },
+      {
+        "id": "art-butz-b2b-konz",
+        "name": "BUTZ b2b Konz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-barbaros-b2b-david-lenk",
+        "name": "Barbaros b2b David Lenk",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ha-nsel",
+        "name": "Hänsel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-montezuma",
+        "name": "Montezuma",
+        "genre": "Various"
+      },
+      {
+        "id": "art-fredda",
+        "name": "Fredda",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mcr-t",
+        "name": "MCR-T",
+        "genre": "Various"
+      },
+      {
+        "id": "art-minou-oram",
+        "name": "Minou Oram",
+        "genre": "Various"
+      },
+      {
+        "id": "art-waldmann",
+        "name": "Waldmann",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kapote",
+        "name": "Kapote",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kim-she",
+        "name": "Kim She",
+        "genre": "Various"
+      },
+      {
+        "id": "art-yung-womb",
+        "name": "yung_womb",
+        "genre": "Various"
+      },
+      {
+        "id": "art-pony-korn",
+        "name": "Pony & Korn",
+        "genre": "Various"
+      },
+      {
+        "id": "art-elias-goldmund",
+        "name": "Elias Goldmund",
+        "genre": "Various"
+      },
+      {
+        "id": "art-paracek",
+        "name": "Paracek",
+        "genre": "Various"
+      },
+      {
+        "id": "art-saber-b2b-11-68pm",
+        "name": "Saber b2b 11:68pm",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dbbd",
+        "name": "DBBD",
+        "genre": "Various"
+      },
+      {
+        "id": "art-davyboi",
+        "name": "Davyboi",
+        "genre": "Various"
+      },
+      {
+        "id": "art-martha-pinel",
+        "name": "Martha Pinel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-disguised",
+        "name": "Disguised",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sedaction",
+        "name": "Sedaction",
+        "genre": "Various"
+      },
+      {
+        "id": "art-paisa-b2b-luca-mariaux",
+        "name": "paisa b2b Luca Mariaux",
+        "genre": "Various"
+      },
+      {
+        "id": "art-naicet",
+        "name": "Naicet",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tzwiebe-b2b-warmer-riese",
+        "name": "Tzwiebe b2b Warmer Riese",
+        "genre": "Various"
+      },
+      {
+        "id": "art-vagabund",
+        "name": "Vagabund",
+        "genre": "Various"
+      },
+      {
+        "id": "art-teenage-mutants",
+        "name": "Teenage Mutants",
+        "genre": "Various"
+      },
+      {
+        "id": "art-blanka",
+        "name": "Blanka",
+        "genre": "Various"
+      },
+      {
+        "id": "art-holger-stolperer",
+        "name": "Holger Stolperer",
+        "genre": "Various"
+      },
+      {
+        "id": "art-syn3k",
+        "name": "SYN3K",
+        "genre": "Various"
+      },
+      {
+        "id": "art-annemalie-b2b-sellycious",
+        "name": "Annemalie b2b Sellycious",
+        "genre": "Various"
+      },
+      {
+        "id": "art-days-like-television",
+        "name": "Days Like Television",
+        "genre": "Various"
+      },
+      {
+        "id": "art-marr-n",
+        "name": "MARRØN",
+        "genre": "Various"
+      },
+      {
+        "id": "art-go-w-t-f",
+        "name": "go W.T.F.",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ritz",
+        "name": "Ritz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-triqi",
+        "name": "Triqi",
+        "genre": "Various"
+      },
+      {
+        "id": "art-pauli-b",
+        "name": "Pauli B",
+        "genre": "Various"
+      },
+      {
+        "id": "art-coexist-b2b-yard-customer",
+        "name": "Coexist b2b Yard Customer",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cate-hops",
+        "name": "Cate Hops",
+        "genre": "Various"
+      },
+      {
+        "id": "art-frozilla-b2b-maria-wildeis",
+        "name": "Frozilla b2b Maria Wildeis",
+        "genre": "Various"
+      },
+      {
+        "id": "art-skratch",
+        "name": "Skratch",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kinky-gear",
+        "name": "Kinky Gear",
+        "genre": "Various"
+      },
+      {
+        "id": "art-yaya-e-v",
+        "name": "YAYA e.V.",
+        "genre": "Various"
+      },
+      {
+        "id": "art-florian-pas-b2b-mar",
+        "name": "Florian Pas b2b MAR",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sprudel",
+        "name": "Sprudel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ravemesse",
+        "name": "Ravemesse",
+        "genre": "Various"
+      },
+      {
+        "id": "art-anna-steffens",
+        "name": "Anna Steffens",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mister-mon",
+        "name": "Mister Mon",
+        "genre": "Various"
+      },
+      {
+        "id": "art-queeres-malen",
+        "name": "Queeres Malen",
+        "genre": "Various"
+      },
+      {
+        "id": "art-flinta-dj-workshop-hosted-bei-yaya",
+        "name": "Flinta DJ Workshop hosted bei YAYA",
+        "genre": "Various"
+      },
+      {
+        "id": "art-forum-gz",
+        "name": "Forum GZ",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sarah-wild",
+        "name": "Sarah Wild",
+        "genre": "Various"
+      },
+      {
+        "id": "art-beal-hogi",
+        "name": "Beal Hogi",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kvlr-x-elvin",
+        "name": "KVLR x Elvin",
+        "genre": "Various"
+      },
+      {
+        "id": "art-elli-on-magnus",
+        "name": "Elli.on & Magnus",
+        "genre": "Various"
+      },
+      {
+        "id": "art-noas-band",
+        "name": "Noas Band",
+        "genre": "Various"
+      },
+      {
+        "id": "art-stylebreakerz-akimbo",
+        "name": "Stylebreakerz Akimbo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-oliv",
+        "name": "OLIV",
+        "genre": "Various"
+      },
+      {
+        "id": "art-karaoke-extreme",
+        "name": "Karaoke extreme!",
+        "genre": "Various"
+      },
+      {
+        "id": "art-shelly-coral",
+        "name": "Shelly Coral",
+        "genre": "Various"
+      },
+      {
+        "id": "art-charlize",
+        "name": "Charlize",
+        "genre": "Various"
+      },
+      {
+        "id": "art-pa-al-b2b-grosera",
+        "name": "Pàal b2b Grosera",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ruppi",
+        "name": "rUPPI",
+        "genre": "Various"
+      },
+      {
+        "id": "art-greta-spark-b2b-dj-norma",
+        "name": "Greta Spark b2b DJ Norma",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mathilda-x-carluschka",
+        "name": "Mathilda x Carluschka",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-ussi-b2b-helmutia",
+        "name": "DJ Ussi b2b Helmutia",
+        "genre": "Various"
+      },
+      {
+        "id": "art-johanna",
+        "name": "Johanna",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lingua-erotica",
+        "name": "Lingua Erotica",
+        "genre": "Various"
+      },
+      {
+        "id": "art-yola",
+        "name": "Yola",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tra",
+        "name": "TRA",
+        "genre": "Various"
+      },
+      {
+        "id": "art-der-assistent",
+        "name": "Der Assistent",
+        "genre": "Various"
+      },
+      {
+        "id": "art-drag-bingo",
+        "name": "Drag Bingo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-prismala",
+        "name": "Prismala",
+        "genre": "Various"
+      },
+      {
+        "id": "art-meggy",
+        "name": "Meggy",
+        "genre": "Various"
+      },
+      {
+        "id": "art-future-666",
+        "name": "Future.666",
+        "genre": "Various"
+      },
+      {
+        "id": "art-power-squad",
+        "name": "Power Squad",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-sportschuh-x-bnzn",
+        "name": "DJ Sportschuh x BNZN",
+        "genre": "Various"
+      },
+      {
+        "id": "art-miss-take",
+        "name": "Miss Take",
+        "genre": "Various"
+      },
+      {
+        "id": "art-frequenz557-b2b-mar-g",
+        "name": "Frequenz557 b2b mar.g",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jaraya",
+        "name": "Jaraya",
+        "genre": "Various"
+      },
+      {
+        "id": "art-nadim",
+        "name": "Nadim",
+        "genre": "Various"
+      },
+      {
+        "id": "art-wheel-of-citizenship",
+        "name": "Wheel of Citizenship",
+        "genre": "Various"
+      },
+      {
+        "id": "art-presslufthanna",
+        "name": "Presslufthanna",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ingrids-enkel",
+        "name": "Ingrids Enkel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-drag-wrestling-show",
+        "name": "Drag Wrestling Show",
+        "genre": "Various"
+      },
+      {
+        "id": "art-slushhkitten",
+        "name": "SlushhKitten",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kwam-e",
+        "name": "Kwam E",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jennifer-loveless",
+        "name": "Jennifer Loveless",
+        "genre": "Various"
+      },
+      {
+        "id": "art-u-berkikz",
+        "name": "Überkikz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-charli-e",
+        "name": "Charli/e",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cleopard2000",
+        "name": "Cleopard2000",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jewelry",
+        "name": "jewelry",
+        "genre": "Various"
+      },
+      {
+        "id": "art-azulu-b2b-gem-ini",
+        "name": "Azulu b2b gem:ini",
+        "genre": "Various"
+      },
+      {
+        "id": "art-trustfundbabes",
+        "name": "trustfundbabes",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cozy",
+        "name": "Cozy",
+        "genre": "Various"
+      },
+      {
+        "id": "art-drag-queen-house",
+        "name": "Drag Queen House",
+        "genre": "Various"
+      },
+      {
+        "id": "art-l-us",
+        "name": "LØUS",
+        "genre": "Various"
+      },
+      {
+        "id": "art-nura",
+        "name": "Nura",
+        "genre": "Various"
+      },
+      {
+        "id": "art-acidkidzzz",
+        "name": "Acidkidzzz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mika-hegemann",
+        "name": "Mika Hegemann",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dr-love",
+        "name": "Dr. Love",
+        "genre": "Various"
+      },
+      {
+        "id": "art-narciss",
+        "name": "Narciss",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-hyperdrive",
+        "name": "Dj Hyperdrive",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cosmic-cherry",
+        "name": "Cosmic Cherry",
+        "genre": "Various"
+      },
+      {
+        "id": "art-theodora",
+        "name": "Theodora",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kirsch",
+        "name": "Kirsch",
+        "genre": "Various"
+      },
+      {
+        "id": "art-abuglitsch",
+        "name": "AbuGlitsch",
+        "genre": "Various"
+      },
+      {
+        "id": "art-flucc",
+        "name": "FLUCC",
+        "genre": "Various"
+      },
+      {
+        "id": "art-justin-tinderdate-b2b-elotrance",
+        "name": "Justin Tinderdate b2b Elotrance",
+        "genre": "Various"
+      },
+      {
+        "id": "art-inu-g-b2b-elpawel",
+        "name": "Inu G b2b ElPawel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-thor-rixon",
+        "name": "Thor Rixon",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cvl-b2b-miss-control",
+        "name": "CVL b2b Miss Control",
+        "genre": "Various"
+      },
+      {
+        "id": "art-home-again-soundsystem",
+        "name": "Home Again Soundsystem",
+        "genre": "Various"
+      },
+      {
+        "id": "art-frederic",
+        "name": "Frederic.",
+        "genre": "Various"
+      },
+      {
+        "id": "art-shaema",
+        "name": "shaema",
+        "genre": "Various"
+      },
+      {
+        "id": "art-pjpjpj-aka-aerodynamic-body",
+        "name": "PJPJPJ aka Aerodynamic Body",
+        "genre": "Various"
+      },
+      {
+        "id": "art-keyk",
+        "name": "KEYK",
+        "genre": "Various"
+      },
+      {
+        "id": "art-satys-fyre",
+        "name": "SATYS FYRE",
+        "genre": "Various"
+      },
+      {
+        "id": "art-yvi",
+        "name": "YVI",
+        "genre": "Various"
+      },
+      {
+        "id": "art-karolina-bnv",
+        "name": "Karolina BNV",
+        "genre": "Various"
+      },
+      {
+        "id": "art-toolie",
+        "name": "Toolie",
+        "genre": "Various"
+      },
+      {
+        "id": "art-henning-baer",
+        "name": "Henning Baer",
+        "genre": "Various"
+      },
+      {
+        "id": "art-alexander-kru-ger",
+        "name": "Alexander Krüger",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lia",
+        "name": "LIA",
+        "genre": "Various"
+      },
+      {
+        "id": "art-a-n-i",
+        "name": "A.N.I.",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mara-zuli",
+        "name": "Mara Zuli",
+        "genre": "Various"
+      },
+      {
+        "id": "art-rosa-kante-b2b-agily",
+        "name": "Rosa Kante b2b Agily",
+        "genre": "Various"
+      },
+      {
+        "id": "art-rob-alex",
+        "name": "Rob & Alex",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kyle-o-brien",
+        "name": "Kyle O´Brien",
+        "genre": "Various"
+      },
+      {
+        "id": "art-caiva",
+        "name": "Caiva",
+        "genre": "Various"
+      },
+      {
+        "id": "art-blame-the-booker",
+        "name": "Blame the Booker",
+        "genre": "Various"
+      },
+      {
+        "id": "art-felix-kropf",
+        "name": "Felix Kropf",
+        "genre": "Various"
+      },
+      {
+        "id": "art-griefeater",
+        "name": "griefeater",
+        "genre": "Various"
+      },
+      {
+        "id": "art-fahd-tv",
+        "name": "Fahd.tv",
+        "genre": "Various"
+      },
+      {
+        "id": "art-shaleen",
+        "name": "Shaleen",
+        "genre": "Various"
+      },
+      {
+        "id": "art-inverno",
+        "name": "INVERNO",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jonas-ko-ksal",
+        "name": "Jonas Köksal",
+        "genre": "Various"
+      },
+      {
+        "id": "art-vincent-grabowski",
+        "name": "Vincent Grabowski",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lysia",
+        "name": "Lysia",
+        "genre": "Various"
+      },
+      {
+        "id": "art-djil",
+        "name": "Djil",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jacky-ickx-b2b-cargo",
+        "name": "Jacky Ickx b2b Cargo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lucidlavalamb",
+        "name": "Lucidlavalamb",
+        "genre": "Various"
+      },
+      {
+        "id": "art-logidy",
+        "name": "Logidy",
+        "genre": "Various"
+      },
+      {
+        "id": "art-schauspiel-und-impro-eine-einfu-hrung-in-die-grundlagen",
+        "name": "Schauspiel und Impro - Eine Einführung in die Grundlagen",
+        "genre": "Various"
+      },
+      {
+        "id": "art-schauspielworkshop",
+        "name": "Schauspielworkshop",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ludi-ausfahrt-trashmob",
+        "name": "Ludi Ausfahrt + Trashmob",
+        "genre": "Various"
+      },
+      {
+        "id": "art-papu",
+        "name": "Papu",
+        "genre": "Various"
+      },
+      {
+        "id": "art-beach-butt-action",
+        "name": "Beach Butt Action",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lex",
+        "name": "Lex",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sabu",
+        "name": "Sabu!",
+        "genre": "Various"
+      },
+      {
+        "id": "art-blush-bloom",
+        "name": "Blush&Bloom",
+        "genre": "Various"
+      },
+      {
+        "id": "art-pschukk-b2b-scho-nfeld",
+        "name": "Pschukk b2b Schönfeld",
+        "genre": "Various"
+      },
+      {
+        "id": "art-triple-heart-performance-trick",
+        "name": "Triple Heart Performance Trick",
+        "genre": "Various"
+      },
+      {
+        "id": "art-das-gro-e-triple-heart-performance-quiz",
+        "name": "Das Große Triple Heart Performance Quiz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-traum-waers",
+        "name": "Traum Waers",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ku-ssen",
+        "name": "Küssen",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kat-davids-b2b-kat-davids",
+        "name": "Kat Davids b2b Kat Davids",
+        "genre": "Various"
+      },
+      {
+        "id": "art-groovyjuri-b2b-almost-famous",
+        "name": "groovyjuri b2b Almost Famous",
+        "genre": "Various"
+      },
+      {
+        "id": "art-atreo",
+        "name": "Atreo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-3d-afterhour-simulator",
+        "name": "3D Afterhour Simulator",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mp-ulle-b2b-dreimal-t",
+        "name": "mp.ulle b2b Dreimal T",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jule-z",
+        "name": "Juléz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-shimmer",
+        "name": "Shimmer.",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ttyfal",
+        "name": "Ttyfal",
+        "genre": "Various"
+      },
+      {
+        "id": "art-hermetica",
+        "name": "Hermetica",
+        "genre": "Various"
+      },
+      {
+        "id": "art-smau-b2b-melli-g",
+        "name": "Smau b2b Melli G",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kirk",
+        "name": "Kirk",
+        "genre": "Various"
+      },
+      {
+        "id": "art-akeem-b2b-lindos-xp",
+        "name": "AKEEM b2b Lindos xp",
+        "genre": "Various"
+      },
+      {
+        "id": "art-4meter",
+        "name": "4meter",
+        "genre": "Various"
+      },
+      {
+        "id": "art-fragen",
+        "name": "Fragen",
+        "genre": "Various"
+      },
+      {
+        "id": "art-randahlicious",
+        "name": "Randahlicious",
+        "genre": "Various"
+      },
+      {
+        "id": "art-herz-an-herz",
+        "name": "Herz an Herz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ludde",
+        "name": "Ludde",
+        "genre": "Various"
+      },
+      {
+        "id": "art-marnele",
+        "name": "Marnele",
+        "genre": "Various"
+      },
+      {
+        "id": "art-goldy-mp3",
+        "name": "Goldy.mp3",
+        "genre": "Various"
+      },
+      {
+        "id": "art-the-jakob-sister",
+        "name": "The Jakob Sister",
+        "genre": "Various"
+      },
+      {
+        "id": "art-ferial",
+        "name": "Ferial",
+        "genre": "Various"
+      },
+      {
+        "id": "art-roza-terenzi",
+        "name": "Roza Terenzi",
+        "genre": "Various"
+      },
+      {
+        "id": "art-atta-b2b-christa-k",
+        "name": "Atta b2b Christa K",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lucidtrails",
+        "name": "Lucidtrails",
+        "genre": "Various"
+      },
+      {
+        "id": "art-barnet",
+        "name": "Barnet",
+        "genre": "Various"
+      },
+      {
+        "id": "art-techno-za-hne",
+        "name": "Techno Zähne",
+        "genre": "Various"
+      },
+      {
+        "id": "art-strob",
+        "name": "Strob",
+        "genre": "Various"
+      },
+      {
+        "id": "art-vicky",
+        "name": "Vicky",
+        "genre": "Various"
+      },
+      {
+        "id": "art-slin",
+        "name": "SLIN",
+        "genre": "Various"
+      },
+      {
+        "id": "art-herzblatt-karaoke",
+        "name": "Herzblatt Karaoke",
+        "genre": "Various"
+      },
+      {
+        "id": "art-edwin-b2b-miro",
+        "name": "Edwin b2b Miro",
+        "genre": "Various"
+      },
+      {
+        "id": "art-raverpik",
+        "name": "Raverpik",
+        "genre": "Various"
+      },
+      {
+        "id": "art-streichelt",
+        "name": "Streichelt",
+        "genre": "Various"
+      },
+      {
+        "id": "art-carlo5",
+        "name": "Carlo5",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cryme-b2b-moio",
+        "name": "CRYME b2b moio",
+        "genre": "Various"
+      },
+      {
+        "id": "art-limbic-sis-plot",
+        "name": "Limbic Sis- Plot",
+        "genre": "Various"
+      },
+      {
+        "id": "art-arctiq-b2b-deni-sova",
+        "name": "arctiq B2B deni_sova",
+        "genre": "Various"
+      },
+      {
+        "id": "art-anton-jonathan",
+        "name": "Anton Jonathan",
+        "genre": "Various"
+      },
+      {
+        "id": "art-diggi-daniel",
+        "name": "diggi daniel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tino-machauer",
+        "name": "Tino Machauer",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cael-dj-kreatin",
+        "name": "Cael & DJ Kreatin",
+        "genre": "Various"
+      },
+      {
+        "id": "art-pa69",
+        "name": "PA69",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-taige",
+        "name": "DJ Taige",
+        "genre": "Various"
+      },
+      {
+        "id": "art-stimulus",
+        "name": "Stimulus",
+        "genre": "Various"
+      },
+      {
+        "id": "art-georgia-bird-b2b-smuseb",
+        "name": "Georgia Bird b2b Smuseb",
+        "genre": "Various"
+      },
+      {
+        "id": "art-andy-martin",
+        "name": "Andy Martin",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-northern",
+        "name": "DJ NORTHERN",
+        "genre": "Various"
+      },
+      {
+        "id": "art-module-one",
+        "name": "Module One",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-babyblade-b2b-talia-dorr",
+        "name": "DJ BABYBLADE B2B Talia dorr",
+        "genre": "Various"
+      },
+      {
+        "id": "art-rico-r",
+        "name": "Rico R",
+        "genre": "Various"
+      },
+      {
+        "id": "art-hitgiganten",
+        "name": "Hitgiganten",
+        "genre": "Various"
+      },
+      {
+        "id": "art-katta-lana-brauer-live",
+        "name": "Katta Lana & Brauer (Live)",
+        "genre": "Various"
+      },
+      {
+        "id": "art-oran-ray",
+        "name": "Oran Ray",
+        "genre": "Various"
+      },
+      {
+        "id": "art-niuee",
+        "name": "niuee",
+        "genre": "Various"
+      },
+      {
+        "id": "art-die-hechtis",
+        "name": "Die Hechtis",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cashmiri",
+        "name": "Cashmiri",
+        "genre": "Various"
+      },
+      {
+        "id": "art-van-ree",
+        "name": "Van Ree",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-heartstring",
+        "name": "DJ Heartstring",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lyza",
+        "name": "LYZA",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cosmo",
+        "name": "Cosmo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lenny-fuck",
+        "name": "Lenny Fuck",
+        "genre": "Various"
+      },
+      {
+        "id": "art-eliahaze-b2b-lenard-klein",
+        "name": "EliaHaze B2B Lenard Klein",
+        "genre": "Various"
+      },
+      {
+        "id": "art-hitparaden-helga-b2b-katze",
+        "name": "Hitparaden Helga b2b Katze",
+        "genre": "Various"
+      },
+      {
+        "id": "art-bipolar-soundsystem-b2b-gria",
+        "name": "Bipolar Soundsystem b2b Gria",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tosh-davids",
+        "name": "Tosh & Davids",
+        "genre": "Various"
+      },
+      {
+        "id": "art-paula-hilton",
+        "name": "Paula Hilton",
+        "genre": "Various"
+      },
+      {
+        "id": "art-eurobabes",
+        "name": "Eurobabes",
+        "genre": "Various"
+      },
+      {
+        "id": "art-alfandi-b2b-cmk",
+        "name": "Alfandi b2b CMK",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mascha-b2b-red-rooms",
+        "name": "Mascha b2b Red Rooms",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kontronatura",
+        "name": "KONTRONATURA",
+        "genre": "Various"
+      },
+      {
+        "id": "art-josi-schulz",
+        "name": "Josi Schulz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-smokey-b2b-moonwalker",
+        "name": "Smokey b2b Moonwalker",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-buona-sara-b2b-dj-fucks-himself",
+        "name": "DJ Buona Sara b2b DJ Fucks Himself",
+        "genre": "Various"
+      },
+      {
+        "id": "art-al-hut",
+        "name": "Al Hut",
+        "genre": "Various"
+      },
+      {
+        "id": "art-vincent-neumann",
+        "name": "Vincent Neumann",
+        "genre": "Various"
+      },
+      {
+        "id": "art-posi-flo",
+        "name": "Posi Flo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-goga-vlu",
+        "name": "Goga-Vlu",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cherolainne",
+        "name": "CHEROLAINNE",
+        "genre": "Various"
+      },
+      {
+        "id": "art-magma-gambi-b2b-ayacogu",
+        "name": "Magma Gambi B2B ayacogu",
+        "genre": "Various"
+      },
+      {
+        "id": "art-porzellan-bar-crew",
+        "name": "Porzellan Bar Crew",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sa-da",
+        "name": "sāda",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-killing",
+        "name": "DJ Killing",
+        "genre": "Various"
+      },
+      {
+        "id": "art-inka",
+        "name": "Inka",
+        "genre": "Various"
+      },
+      {
+        "id": "art-heinz-ficktion",
+        "name": "Heinz Ficktion",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tanya-kreideweis",
+        "name": "Tanya Kreideweis",
+        "genre": "Various"
+      },
+      {
+        "id": "art-peter-pivo-daniel-bade",
+        "name": "Peter Pivo & Daniel bade",
+        "genre": "Various"
+      },
+      {
+        "id": "art-berlinbooth-podcast",
+        "name": "Berlinbooth Podcast",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lara-fein",
+        "name": "Lara Fein",
+        "genre": "Various"
+      },
+      {
+        "id": "art-timo",
+        "name": "Timo",
+        "genre": "Various"
+      },
+      {
+        "id": "art-karline",
+        "name": "Karline",
+        "genre": "Various"
+      },
+      {
+        "id": "art-praise-b2b-maummau",
+        "name": "Praise b2b Maummau",
+        "genre": "Various"
+      },
+      {
+        "id": "art-edlef",
+        "name": "edleF",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-eivissa",
+        "name": "DJ Eivissa",
+        "genre": "Various"
+      },
+      {
+        "id": "art-idu-berg-b2b-vale",
+        "name": "Idu Berg b2b Vale",
+        "genre": "Various"
+      },
+      {
+        "id": "art-tom-ries",
+        "name": "Tom Ries",
+        "genre": "Various"
+      },
+      {
+        "id": "art-carl-hang",
+        "name": "Carl Hang",
+        "genre": "Various"
+      },
+      {
+        "id": "art-caren-callas",
+        "name": "Caren Callas",
+        "genre": "Various"
+      },
+      {
+        "id": "art-theatergruppe-p14",
+        "name": "Theatergruppe P14",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mille-heinair",
+        "name": "Mille & HeinAir",
+        "genre": "Various"
+      },
+      {
+        "id": "art-fraenz",
+        "name": "FRAENZ",
+        "genre": "Various"
+      },
+      {
+        "id": "art-cecilia-tosh",
+        "name": "Cecilia Tosh",
+        "genre": "Various"
+      },
+      {
+        "id": "art-klix",
+        "name": "KLIX",
+        "genre": "Various"
+      },
+      {
+        "id": "art-hello-sasy",
+        "name": "Hello Sasy",
+        "genre": "Various"
+      },
+      {
+        "id": "art-delulu-flo-van-fun",
+        "name": "delulu & Flo van Fun",
+        "genre": "Various"
+      },
+      {
+        "id": "art-heimlich-knu-ller",
+        "name": "Heimlich Knüller",
+        "genre": "Various"
+      },
+      {
+        "id": "art-benjamin-stahl",
+        "name": "Benjamin Stahl",
+        "genre": "Various"
+      },
+      {
+        "id": "art-spree-vom-weizen",
+        "name": "Spree vom Weizen",
+        "genre": "Various"
+      },
+      {
+        "id": "art-heino-jetztmann",
+        "name": "Heino & JetztMann",
+        "genre": "Various"
+      },
+      {
+        "id": "art-doudou-md",
+        "name": "Doudou MD",
+        "genre": "Various"
+      },
+      {
+        "id": "art-josiane",
+        "name": "Josiane",
+        "genre": "Various"
+      },
+      {
+        "id": "art-thilini",
+        "name": "Thilini",
+        "genre": "Various"
+      },
+      {
+        "id": "art-anatoli",
+        "name": "Anatoli",
+        "genre": "Various"
+      },
+      {
+        "id": "art-em-vi",
+        "name": "em.ævi",
+        "genre": "Various"
+      },
+      {
+        "id": "art-jo-rdiis-b2b-frehsax",
+        "name": "Jördiis b2b FrehSAX",
+        "genre": "Various"
+      },
+      {
+        "id": "art-first-graders",
+        "name": "First Graders",
+        "genre": "Various"
+      },
+      {
+        "id": "art-miguel-a-ngel",
+        "name": "Miguel Ángel",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sally-c",
+        "name": "Sally C",
+        "genre": "Various"
+      },
+      {
+        "id": "art-boris-davy",
+        "name": "Boris & Davy",
+        "genre": "Various"
+      },
+      {
+        "id": "art-hinnack-daddycation",
+        "name": "Hinnack & Daddycation",
+        "genre": "Various"
+      },
+      {
+        "id": "art-marie-montexier",
+        "name": "Marie Montexier",
+        "genre": "Various"
+      },
+      {
+        "id": "art-l300",
+        "name": "L300",
+        "genre": "Various"
+      },
+      {
+        "id": "art-fahed-helmut",
+        "name": "Fahed:Helmut",
+        "genre": "Various"
+      },
+      {
+        "id": "art-lulu-nell",
+        "name": "Lulu & Nell",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kiku",
+        "name": "Kiku",
+        "genre": "Various"
+      },
+      {
+        "id": "art-noxy",
+        "name": "Noxy",
+        "genre": "Various"
+      },
+      {
+        "id": "art-nancy-nebel-b2b-toni-pommrich",
+        "name": "Nancy Nebel b2b Toni Pommrich",
+        "genre": "Various"
+      },
+      {
+        "id": "art-yanamaste",
+        "name": "Yanamaste",
+        "genre": "Various"
+      },
+      {
+        "id": "art-monti",
+        "name": "Monti",
+        "genre": "Various"
+      },
+      {
+        "id": "art-sova",
+        "name": "Sova",
+        "genre": "Various"
+      },
+      {
+        "id": "art-derjonny-x-patek",
+        "name": "DerJonny x Patek!",
+        "genre": "Various"
+      },
+      {
+        "id": "art-dj-zbb",
+        "name": "DJ ZBB",
+        "genre": "Various"
+      },
+      {
+        "id": "art-vincent-hellkuhl",
+        "name": "Vincent Hellkuhl",
+        "genre": "Various"
+      },
+      {
+        "id": "art-rasho",
+        "name": "Rasho",
+        "genre": "Various"
+      },
+      {
+        "id": "art-mamichula",
+        "name": "Mamichula",
+        "genre": "Various"
+      },
+      {
+        "id": "art-steve-challier-b2b-christopher-lawrenz",
+        "name": "Steve Challier b2b Christopher Lawrenz",
+        "genre": "Various"
+      },
+      {
+        "id": "art-britta-arnold",
+        "name": "Britta Arnold",
+        "genre": "Various"
+      },
+      {
+        "id": "art-kid-simius",
+        "name": "Kid Simius",
+        "genre": "Various"
+      }
+    ],
+    "performances": [
+      {
+        "id": "perf-0001",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-flinta-open-decks",
+        "startTime": "2026-07-23T14:00:00.000Z",
+        "endTime": "2026-07-23T17:00:00.000Z",
+        "type": "DJ",
+        "info": "Dieser Text steht in der Dialogbox, wenn in der Spalte etwas steht"
+      },
+      {
+        "id": "perf-0002",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-ene-h",
+        "startTime": "2026-07-23T16:00:00.000Z",
+        "endTime": "2026-07-23T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0003",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-der-mette",
+        "startTime": "2026-07-23T16:00:00.000Z",
+        "endTime": "2026-07-23T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0004",
+        "stageId": "stage-motel53",
+        "artistId": "art-dj-palga",
+        "startTime": "2026-07-23T16:00:00.000Z",
+        "endTime": "2026-07-23T17:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0005",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-leon-dumeier",
+        "startTime": "2026-07-23T16:00:00.000Z",
+        "endTime": "2026-07-23T17:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0006",
+        "stageId": "stage-strand",
+        "artistId": "art-jemski",
+        "startTime": "2026-07-23T17:00:00.000Z",
+        "endTime": "2026-07-23T18:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0007",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-nautylus",
+        "startTime": "2026-07-23T17:00:00.000Z",
+        "endTime": "2026-07-23T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0008",
+        "stageId": "stage-motel53",
+        "artistId": "art-schwesta-p",
+        "startTime": "2026-07-23T17:30:00.000Z",
+        "endTime": "2026-07-23T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0009",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-unfiltered",
+        "startTime": "2026-07-23T17:30:00.000Z",
+        "endTime": "2026-07-23T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0010",
+        "stageId": "stage-xberg",
+        "artistId": "art-dj-cringey",
+        "startTime": "2026-07-23T18:00:00.000Z",
+        "endTime": "2026-07-23T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0011",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-gloria-rose",
+        "startTime": "2026-07-23T18:00:00.000Z",
+        "endTime": "2026-07-23T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0012",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-lino-l-amour",
+        "startTime": "2026-07-23T18:00:00.000Z",
+        "endTime": "2026-07-23T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0013",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-ether-o",
+        "startTime": "2026-07-23T18:00:00.000Z",
+        "endTime": "2026-07-23T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0014",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-felix-spethmann",
+        "startTime": "2026-07-23T18:00:00.000Z",
+        "endTime": "2026-07-23T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0015",
+        "stageId": "stage-strand",
+        "artistId": "art-ukai-b2b-walter-griot",
+        "startTime": "2026-07-23T18:30:00.000Z",
+        "endTime": "2026-07-23T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0016",
+        "stageId": "stage-motel53",
+        "artistId": "art-arninho",
+        "startTime": "2026-07-23T19:00:00.000Z",
+        "endTime": "2026-07-23T20:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0017",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-tekkida",
+        "startTime": "2026-07-23T19:00:00.000Z",
+        "endTime": "2026-07-23T20:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0018",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-damian-mono",
+        "startTime": "2026-07-23T19:00:00.000Z",
+        "endTime": "2026-07-23T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0019",
+        "stageId": "stage-xberg",
+        "artistId": "art-shoki",
+        "startTime": "2026-07-23T20:00:00.000Z",
+        "endTime": "2026-07-23T20:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0020",
+        "stageId": "stage-strand",
+        "artistId": "art-arpy-brown",
+        "startTime": "2026-07-23T20:00:00.000Z",
+        "endTime": "2026-07-23T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0021",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-butz-b2b-konz",
+        "startTime": "2026-07-23T20:00:00.000Z",
+        "endTime": "2026-07-23T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0022",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-barbaros-b2b-david-lenk",
+        "startTime": "2026-07-23T20:00:00.000Z",
+        "endTime": "2026-07-23T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0023",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-ha-nsel",
+        "startTime": "2026-07-23T20:00:00.000Z",
+        "endTime": "2026-07-23T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0024",
+        "stageId": "stage-motel53",
+        "artistId": "art-montezuma",
+        "startTime": "2026-07-23T20:30:00.000Z",
+        "endTime": "2026-07-23T22:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0025",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-fredda",
+        "startTime": "2026-07-23T20:30:00.000Z",
+        "endTime": "2026-07-23T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0026",
+        "stageId": "stage-xberg",
+        "artistId": "art-mcr-t",
+        "startTime": "2026-07-23T20:45:00.000Z",
+        "endTime": "2026-07-23T22:30:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0027",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-minou-oram",
+        "startTime": "2026-07-23T21:00:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0028",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-waldmann",
+        "startTime": "2026-07-23T21:00:00.000Z",
+        "endTime": "2026-07-23T23:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0029",
+        "stageId": "stage-strand",
+        "artistId": "art-kapote",
+        "startTime": "2026-07-23T22:00:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0030",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-kim-she",
+        "startTime": "2026-07-23T22:00:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0031",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-yung-womb",
+        "startTime": "2026-07-23T22:00:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0032",
+        "stageId": "stage-motel53",
+        "artistId": "art-pony-korn",
+        "startTime": "2026-07-23T22:00:00.000Z",
+        "endTime": "2026-07-23T23:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0033",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-elias-goldmund",
+        "startTime": "2026-07-23T22:00:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0034",
+        "stageId": "stage-xberg",
+        "artistId": "art-paracek",
+        "startTime": "2026-07-23T22:30:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0035",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-saber-b2b-11-68pm",
+        "startTime": "2026-07-23T23:00:00.000Z",
+        "endTime": "2026-07-24T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0036",
+        "stageId": "stage-motel53",
+        "artistId": "art-dbbd",
+        "startTime": "2026-07-23T23:30:00.000Z",
+        "endTime": "2026-07-24T01:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0037",
+        "stageId": "stage-xberg",
+        "artistId": "art-davyboi",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0038",
+        "stageId": "stage-strand",
+        "artistId": "art-martha-pinel",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0039",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-disguised",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0040",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-sedaction",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0041",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-paisa-b2b-luca-mariaux",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T03:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0042",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-naicet",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0043",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-tzwiebe-b2b-warmer-riese",
+        "startTime": "2026-07-24T00:00:00.000Z",
+        "endTime": "2026-07-24T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0044",
+        "stageId": "stage-motel53",
+        "artistId": "art-vagabund",
+        "startTime": "2026-07-24T01:00:00.000Z",
+        "endTime": "2026-07-24T02:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0045",
+        "stageId": "stage-strand",
+        "artistId": "art-teenage-mutants",
+        "startTime": "2026-07-24T02:00:00.000Z",
+        "endTime": "2026-07-24T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0046",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-blanka",
+        "startTime": "2026-07-24T02:00:00.000Z",
+        "endTime": "2026-07-24T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0047",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-holger-stolperer",
+        "startTime": "2026-07-24T02:00:00.000Z",
+        "endTime": "2026-07-24T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0048",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-syn3k",
+        "startTime": "2026-07-24T02:00:00.000Z",
+        "endTime": "2026-07-24T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0049",
+        "stageId": "stage-motel53",
+        "artistId": "art-annemalie-b2b-sellycious",
+        "startTime": "2026-07-24T02:30:00.000Z",
+        "endTime": "2026-07-24T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0050",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-days-like-television",
+        "startTime": "2026-07-24T03:00:00.000Z",
+        "endTime": "2026-07-24T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0051",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-marr-n",
+        "startTime": "2026-07-24T04:00:00.000Z",
+        "endTime": "2026-07-24T07:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0052",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-go-w-t-f",
+        "startTime": "2026-07-24T04:00:00.000Z",
+        "endTime": "2026-07-24T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0053",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-ritz",
+        "startTime": "2026-07-24T04:00:00.000Z",
+        "endTime": "2026-07-24T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0054",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-triqi",
+        "startTime": "2026-07-24T06:00:00.000Z",
+        "endTime": "2026-07-24T09:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0055",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-pauli-b",
+        "startTime": "2026-07-24T06:00:00.000Z",
+        "endTime": "2026-07-24T08:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0056",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-coexist-b2b-yard-customer",
+        "startTime": "2026-07-24T08:00:00.000Z",
+        "endTime": "2026-07-24T10:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0057",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-cate-hops",
+        "startTime": "2026-07-24T09:00:00.000Z",
+        "endTime": "2026-07-24T11:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0058",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-frozilla-b2b-maria-wildeis",
+        "startTime": "2026-07-24T10:00:00.000Z",
+        "endTime": "2026-07-24T12:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0059",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-flinta-open-decks",
+        "startTime": "2026-07-24T10:00:00.000Z",
+        "endTime": "2026-07-24T14:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0060",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-skratch",
+        "startTime": "2026-07-24T11:00:00.000Z",
+        "endTime": "2026-07-24T13:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0061",
+        "stageId": "stage-manege",
+        "artistId": "art-kinky-gear",
+        "startTime": "2026-07-24T11:00:00.000Z",
+        "endTime": "2026-07-24T12:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0062",
+        "stageId": "stage-dampfer",
+        "artistId": "art-yaya-e-v",
+        "startTime": "2026-07-24T11:00:00.000Z",
+        "endTime": "2026-07-24T12:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0063",
+        "stageId": "stage-strand",
+        "artistId": "art-florian-pas-b2b-mar",
+        "startTime": "2026-07-24T12:00:00.000Z",
+        "endTime": "2026-07-24T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0064",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-sprudel",
+        "startTime": "2026-07-24T12:00:00.000Z",
+        "endTime": "2026-07-24T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0065",
+        "stageId": "stage-motel53",
+        "artistId": "art-ravemesse",
+        "startTime": "2026-07-24T12:00:00.000Z",
+        "endTime": "2026-07-24T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0066",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-anna-steffens",
+        "startTime": "2026-07-24T12:00:00.000Z",
+        "endTime": "2026-07-24T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0067",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-mister-mon",
+        "startTime": "2026-07-24T13:00:00.000Z",
+        "endTime": "2026-07-24T15:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0068",
+        "stageId": "stage-manege",
+        "artistId": "art-queeres-malen",
+        "startTime": "2026-07-24T13:00:00.000Z",
+        "endTime": "2026-07-24T15:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0069",
+        "stageId": "stage-dampfer",
+        "artistId": "art-flinta-dj-workshop-hosted-bei-yaya",
+        "startTime": "2026-07-24T13:00:00.000Z",
+        "endTime": "2026-07-24T15:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0070",
+        "stageId": "stage-garage",
+        "artistId": "art-forum-gz",
+        "startTime": "2026-07-24T13:30:00.000Z",
+        "endTime": "2026-07-24T14:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0071",
+        "stageId": "stage-strand",
+        "artistId": "art-sarah-wild",
+        "startTime": "2026-07-24T14:00:00.000Z",
+        "endTime": "2026-07-24T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0072",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-beal-hogi",
+        "startTime": "2026-07-24T14:00:00.000Z",
+        "endTime": "2026-07-24T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0073",
+        "stageId": "stage-motel53",
+        "artistId": "art-kvlr-x-elvin",
+        "startTime": "2026-07-24T14:00:00.000Z",
+        "endTime": "2026-07-24T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0074",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-elli-on-magnus",
+        "startTime": "2026-07-24T14:00:00.000Z",
+        "endTime": "2026-07-24T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0075",
+        "stageId": "stage-garage",
+        "artistId": "art-noas-band",
+        "startTime": "2026-07-24T14:30:00.000Z",
+        "endTime": "2026-07-24T15:10:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0076",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-stylebreakerz-akimbo",
+        "startTime": "2026-07-24T14:30:00.000Z",
+        "endTime": "2026-07-24T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0077",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-oliv",
+        "startTime": "2026-07-24T15:00:00.000Z",
+        "endTime": "2026-07-24T17:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0078",
+        "stageId": "stage-manege",
+        "artistId": "art-karaoke-extreme",
+        "startTime": "2026-07-24T15:00:00.000Z",
+        "endTime": "2026-07-24T16:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0079",
+        "stageId": "stage-manege",
+        "artistId": "",
+        "startTime": "2026-07-24T15:00:00.000Z",
+        "endTime": "2026-07-24T16:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0080",
+        "stageId": "stage-garage",
+        "artistId": "art-shelly-coral",
+        "startTime": "2026-07-24T15:30:00.000Z",
+        "endTime": "2026-07-24T16:10:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0081",
+        "stageId": "stage-xberg",
+        "artistId": "art-charlize",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T16:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0082",
+        "stageId": "stage-strand",
+        "artistId": "art-pa-al-b2b-grosera",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0083",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-ruppi",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T17:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0084",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-greta-spark-b2b-dj-norma",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0085",
+        "stageId": "stage-motel53",
+        "artistId": "art-mathilda-x-carluschka",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0086",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-dj-ussi-b2b-helmutia",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0087",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-johanna",
+        "startTime": "2026-07-24T16:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0088",
+        "stageId": "stage-garage",
+        "artistId": "art-lingua-erotica",
+        "startTime": "2026-07-24T16:35:00.000Z",
+        "endTime": "2026-07-24T17:15:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0089",
+        "stageId": "stage-xberg",
+        "artistId": "art-yola",
+        "startTime": "2026-07-24T17:00:00.000Z",
+        "endTime": "2026-07-24T17:45:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0090",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-tra",
+        "startTime": "2026-07-24T17:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0091",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-der-assistent",
+        "startTime": "2026-07-24T17:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0092",
+        "stageId": "stage-manege",
+        "artistId": "art-drag-bingo",
+        "startTime": "2026-07-24T17:00:00.000Z",
+        "endTime": "2026-07-24T17:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0093",
+        "stageId": "stage-manege",
+        "artistId": "art-drag-bingo",
+        "startTime": "2026-07-24T17:00:00.000Z",
+        "endTime": "2026-07-24T18:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0094",
+        "stageId": "stage-garage",
+        "artistId": "art-prismala",
+        "startTime": "2026-07-24T17:45:00.000Z",
+        "endTime": "2026-07-24T18:30:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0095",
+        "stageId": "stage-strand",
+        "artistId": "art-meggy",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0096",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-future-666",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0097",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-power-squad",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0098",
+        "stageId": "stage-motel53",
+        "artistId": "art-dj-sportschuh-x-bnzn",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0099",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-miss-take",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0100",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-frequenz557-b2b-mar-g",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0101",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-jaraya",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0102",
+        "stageId": "stage-rakete",
+        "artistId": "art-nadim",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T19:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0103",
+        "stageId": "stage-manege",
+        "artistId": "art-wheel-of-citizenship",
+        "startTime": "2026-07-24T18:00:00.000Z",
+        "endTime": "2026-07-24T19:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0104",
+        "stageId": "stage-xberg",
+        "artistId": "art-presslufthanna",
+        "startTime": "2026-07-24T18:15:00.000Z",
+        "endTime": "2026-07-24T19:15:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0105",
+        "stageId": "stage-garage",
+        "artistId": "art-ingrids-enkel",
+        "startTime": "2026-07-24T18:55:00.000Z",
+        "endTime": "2026-07-24T19:40:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0106",
+        "stageId": "stage-manege",
+        "artistId": "art-drag-wrestling-show",
+        "startTime": "2026-07-24T19:00:00.000Z",
+        "endTime": "2026-07-24T20:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0107",
+        "stageId": "stage-rakete",
+        "artistId": "art-slushhkitten",
+        "startTime": "2026-07-24T19:30:00.000Z",
+        "endTime": "2026-07-24T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0108",
+        "stageId": "stage-xberg",
+        "artistId": "art-kwam-e",
+        "startTime": "2026-07-24T19:45:00.000Z",
+        "endTime": "2026-07-24T20:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0109",
+        "stageId": "stage-strand",
+        "artistId": "art-jennifer-loveless",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0110",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-u-berkikz",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0111",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-charli-e",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0112",
+        "stageId": "stage-motel53",
+        "artistId": "art-cleopard2000",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T21:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0113",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-jewelry",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0114",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-azulu-b2b-gem-ini",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0115",
+        "stageId": "stage-garage",
+        "artistId": "art-trustfundbabes",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T20:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0116",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-cozy",
+        "startTime": "2026-07-24T20:00:00.000Z",
+        "endTime": "2026-07-24T21:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0117",
+        "stageId": "stage-manege",
+        "artistId": "art-drag-queen-house",
+        "startTime": "2026-07-24T20:30:00.000Z",
+        "endTime": "2026-07-24T21:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0118",
+        "stageId": "stage-rakete",
+        "artistId": "art-l-us",
+        "startTime": "2026-07-24T21:00:00.000Z",
+        "endTime": "2026-07-24T22:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0119",
+        "stageId": "stage-xberg",
+        "artistId": "art-nura",
+        "startTime": "2026-07-24T21:15:00.000Z",
+        "endTime": "2026-07-24T22:15:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0120",
+        "stageId": "stage-garage",
+        "artistId": "art-acidkidzzz",
+        "startTime": "2026-07-24T21:15:00.000Z",
+        "endTime": "2026-07-24T22:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0121",
+        "stageId": "stage-motel53",
+        "artistId": "art-mika-hegemann",
+        "startTime": "2026-07-24T21:30:00.000Z",
+        "endTime": "2026-07-24T23:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0122",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-dr-love",
+        "startTime": "2026-07-24T21:30:00.000Z",
+        "endTime": "2026-07-24T23:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0123",
+        "stageId": "stage-strand",
+        "artistId": "art-narciss",
+        "startTime": "2026-07-24T22:00:00.000Z",
+        "endTime": "2026-07-25T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0124",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-dj-hyperdrive",
+        "startTime": "2026-07-24T22:00:00.000Z",
+        "endTime": "2026-07-25T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0125",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-cosmic-cherry",
+        "startTime": "2026-07-24T22:00:00.000Z",
+        "endTime": "2026-07-25T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0126",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-theodora",
+        "startTime": "2026-07-24T22:00:00.000Z",
+        "endTime": "2026-07-25T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0127",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-kirsch",
+        "startTime": "2026-07-24T22:00:00.000Z",
+        "endTime": "2026-07-25T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0128",
+        "stageId": "stage-xberg",
+        "artistId": "art-abuglitsch",
+        "startTime": "2026-07-24T22:15:00.000Z",
+        "endTime": "2026-07-24T23:45:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0129",
+        "stageId": "stage-rakete",
+        "artistId": "art-flucc",
+        "startTime": "2026-07-24T22:30:00.000Z",
+        "endTime": "2026-07-25T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0130",
+        "stageId": "stage-motel53",
+        "artistId": "art-justin-tinderdate-b2b-elotrance",
+        "startTime": "2026-07-24T23:00:00.000Z",
+        "endTime": "2026-07-25T00:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0131",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-inu-g-b2b-elpawel",
+        "startTime": "2026-07-24T23:00:00.000Z",
+        "endTime": "2026-07-25T00:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0132",
+        "stageId": "stage-manege",
+        "artistId": "art-thor-rixon",
+        "startTime": "2026-07-24T23:00:00.000Z",
+        "endTime": "2026-07-25T00:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0133",
+        "stageId": "stage-xberg",
+        "artistId": "art-cvl-b2b-miss-control",
+        "startTime": "2026-07-24T23:45:00.000Z",
+        "endTime": "2026-07-25T01:15:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0134",
+        "stageId": "stage-strand",
+        "artistId": "art-home-again-soundsystem",
+        "startTime": "2026-07-25T00:00:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0135",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-frederic",
+        "startTime": "2026-07-25T00:00:00.000Z",
+        "endTime": "2026-07-25T01:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0136",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-shaema",
+        "startTime": "2026-07-25T00:00:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0137",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-pjpjpj-aka-aerodynamic-body",
+        "startTime": "2026-07-25T00:00:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0138",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-keyk",
+        "startTime": "2026-07-25T00:00:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0139",
+        "stageId": "stage-motel53",
+        "artistId": "art-satys-fyre",
+        "startTime": "2026-07-25T00:30:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0140",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-yvi",
+        "startTime": "2026-07-25T00:30:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0141",
+        "stageId": "stage-manege",
+        "artistId": "art-karolina-bnv",
+        "startTime": "2026-07-25T00:30:00.000Z",
+        "endTime": "2026-07-25T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0142",
+        "stageId": "stage-xberg",
+        "artistId": "art-toolie",
+        "startTime": "2026-07-25T01:15:00.000Z",
+        "endTime": "2026-07-25T02:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0143",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-henning-baer",
+        "startTime": "2026-07-25T01:30:00.000Z",
+        "endTime": "2026-07-25T03:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0144",
+        "stageId": "stage-strand",
+        "artistId": "art-alexander-kru-ger",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0145",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-lia",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0146",
+        "stageId": "stage-motel53",
+        "artistId": "art-a-n-i",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T03:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0147",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-mara-zuli",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0148",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-rosa-kante-b2b-agily",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0149",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-rob-alex",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0150",
+        "stageId": "stage-manege",
+        "artistId": "art-kyle-o-brien",
+        "startTime": "2026-07-25T02:00:00.000Z",
+        "endTime": "2026-07-25T03:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0151",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-caiva",
+        "startTime": "2026-07-25T03:30:00.000Z",
+        "endTime": "2026-07-25T05:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0152",
+        "stageId": "stage-motel53",
+        "artistId": "art-blame-the-booker",
+        "startTime": "2026-07-25T03:30:00.000Z",
+        "endTime": "2026-07-25T05:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0153",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-felix-kropf",
+        "startTime": "2026-07-25T04:00:00.000Z",
+        "endTime": "2026-07-25T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0154",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-griefeater",
+        "startTime": "2026-07-25T04:00:00.000Z",
+        "endTime": "2026-07-25T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0155",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-fahd-tv",
+        "startTime": "2026-07-25T04:00:00.000Z",
+        "endTime": "2026-07-25T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0156",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-shaleen",
+        "startTime": "2026-07-25T05:00:00.000Z",
+        "endTime": "2026-07-25T07:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0157",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-inverno",
+        "startTime": "2026-07-25T06:00:00.000Z",
+        "endTime": "2026-07-25T08:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0158",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-jonas-ko-ksal",
+        "startTime": "2026-07-25T06:00:00.000Z",
+        "endTime": "2026-07-25T08:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0159",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-vincent-grabowski",
+        "startTime": "2026-07-25T08:00:00.000Z",
+        "endTime": "2026-07-25T10:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0160",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-lysia",
+        "startTime": "2026-07-25T08:00:00.000Z",
+        "endTime": "2026-07-25T10:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0161",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-djil",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T12:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0162",
+        "stageId": "stage-motel53",
+        "artistId": "art-jacky-ickx-b2b-cargo",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T12:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0163",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-lucidlavalamb",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T12:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0164",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-logidy",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T12:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0165",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-flinta-open-decks",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0166",
+        "stageId": "stage-manege",
+        "artistId": "art-schauspiel-und-impro-eine-einfu-hrung-in-die-grundlagen",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T11:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0167",
+        "stageId": "stage-manege",
+        "artistId": "art-schauspielworkshop",
+        "startTime": "2026-07-25T10:00:00.000Z",
+        "endTime": "2026-07-25T11:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0168",
+        "stageId": "stage-dampfer",
+        "artistId": "art-ludi-ausfahrt-trashmob",
+        "startTime": "2026-07-25T11:00:00.000Z",
+        "endTime": "2026-07-25T12:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0169",
+        "stageId": "stage-strand",
+        "artistId": "art-papu",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0170",
+        "stageId": "stage-strand",
+        "artistId": "art-beach-butt-action",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T15:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0171",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-lex",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0172",
+        "stageId": "stage-motel53",
+        "artistId": "art-sabu",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0173",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-blush-bloom",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0174",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-pschukk-b2b-scho-nfeld",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0175",
+        "stageId": "stage-manege",
+        "artistId": "art-triple-heart-performance-trick",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0176",
+        "stageId": "stage-manege",
+        "artistId": "art-das-gro-e-triple-heart-performance-quiz",
+        "startTime": "2026-07-25T12:00:00.000Z",
+        "endTime": "2026-07-25T14:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0177",
+        "stageId": "stage-garage",
+        "artistId": "art-traum-waers",
+        "startTime": "2026-07-25T12:30:00.000Z",
+        "endTime": "2026-07-25T13:10:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0178",
+        "stageId": "stage-garage",
+        "artistId": "art-ku-ssen",
+        "startTime": "2026-07-25T13:50:00.000Z",
+        "endTime": "2026-07-25T14:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0179",
+        "stageId": "stage-strand",
+        "artistId": "art-kat-davids-b2b-kat-davids",
+        "startTime": "2026-07-25T14:00:00.000Z",
+        "endTime": "2026-07-25T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0180",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-groovyjuri-b2b-almost-famous",
+        "startTime": "2026-07-25T14:00:00.000Z",
+        "endTime": "2026-07-25T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0181",
+        "stageId": "stage-motel53",
+        "artistId": "art-atreo",
+        "startTime": "2026-07-25T14:00:00.000Z",
+        "endTime": "2026-07-25T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0182",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-3d-afterhour-simulator",
+        "startTime": "2026-07-25T14:00:00.000Z",
+        "endTime": "2026-07-25T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0183",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-mp-ulle-b2b-dreimal-t",
+        "startTime": "2026-07-25T14:00:00.000Z",
+        "endTime": "2026-07-25T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0184",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-jule-z",
+        "startTime": "2026-07-25T14:00:00.000Z",
+        "endTime": "2026-07-25T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0185",
+        "stageId": "stage-garage",
+        "artistId": "art-shimmer",
+        "startTime": "2026-07-25T14:50:00.000Z",
+        "endTime": "2026-07-25T15:30:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0186",
+        "stageId": "stage-strand",
+        "artistId": "art-ttyfal",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0187",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-hermetica",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T18:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0188",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-smau-b2b-melli-g",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0189",
+        "stageId": "stage-motel53",
+        "artistId": "art-kirk",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T17:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0190",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-akeem-b2b-lindos-xp",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0191",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-4meter",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0192",
+        "stageId": "stage-garage",
+        "artistId": "art-fragen",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T16:40:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0193",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-randahlicious",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T17:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0194",
+        "stageId": "stage-manege",
+        "artistId": "art-herz-an-herz",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T18:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0195",
+        "stageId": "stage-dampfer",
+        "artistId": "art-ludde",
+        "startTime": "2026-07-25T16:00:00.000Z",
+        "endTime": "2026-07-25T17:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0196",
+        "stageId": "stage-xberg",
+        "artistId": "art-marnele",
+        "startTime": "2026-07-25T17:00:00.000Z",
+        "endTime": "2026-07-25T17:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0197",
+        "stageId": "stage-garage",
+        "artistId": "art-goldy-mp3",
+        "startTime": "2026-07-25T17:00:00.000Z",
+        "endTime": "2026-07-25T17:40:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0198",
+        "stageId": "stage-motel53",
+        "artistId": "art-the-jakob-sister",
+        "startTime": "2026-07-25T17:30:00.000Z",
+        "endTime": "2026-07-25T19:15:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0199",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-ferial",
+        "startTime": "2026-07-25T17:30:00.000Z",
+        "endTime": "2026-07-25T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0200",
+        "stageId": "stage-strand",
+        "artistId": "art-roza-terenzi",
+        "startTime": "2026-07-25T18:00:00.000Z",
+        "endTime": "2026-07-25T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0201",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-atta-b2b-christa-k",
+        "startTime": "2026-07-25T18:00:00.000Z",
+        "endTime": "2026-07-25T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0202",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-lucidtrails",
+        "startTime": "2026-07-25T18:00:00.000Z",
+        "endTime": "2026-07-25T20:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0203",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-barnet",
+        "startTime": "2026-07-25T18:00:00.000Z",
+        "endTime": "2026-07-25T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0204",
+        "stageId": "stage-rakete",
+        "artistId": "art-techno-za-hne",
+        "startTime": "2026-07-25T18:00:00.000Z",
+        "endTime": "2026-07-25T23:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0205",
+        "stageId": "stage-garage",
+        "artistId": "art-strob",
+        "startTime": "2026-07-25T18:05:00.000Z",
+        "endTime": "2026-07-25T18:45:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0206",
+        "stageId": "stage-xberg",
+        "artistId": "art-vicky",
+        "startTime": "2026-07-25T18:15:00.000Z",
+        "endTime": "2026-07-25T19:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0207",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-slin",
+        "startTime": "2026-07-25T18:30:00.000Z",
+        "endTime": "2026-07-25T20:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0208",
+        "stageId": "stage-manege",
+        "artistId": "art-herzblatt-karaoke",
+        "startTime": "2026-07-25T18:30:00.000Z",
+        "endTime": "2026-07-25T22:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0209",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-edwin-b2b-miro",
+        "startTime": "2026-07-25T19:00:00.000Z",
+        "endTime": "2026-07-25T20:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0210",
+        "stageId": "stage-motel53",
+        "artistId": "art-raverpik",
+        "startTime": "2026-07-25T19:15:00.000Z",
+        "endTime": "2026-07-25T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0211",
+        "stageId": "stage-garage",
+        "artistId": "art-streichelt",
+        "startTime": "2026-07-25T19:15:00.000Z",
+        "endTime": "2026-07-25T19:55:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0212",
+        "stageId": "stage-xberg",
+        "artistId": "art-carlo5",
+        "startTime": "2026-07-25T19:30:00.000Z",
+        "endTime": "2026-07-25T20:30:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0213",
+        "stageId": "stage-strand",
+        "artistId": "art-cryme-b2b-moio",
+        "startTime": "2026-07-25T20:00:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0214",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-limbic-sis-plot",
+        "startTime": "2026-07-25T20:00:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0215",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-arctiq-b2b-deni-sova",
+        "startTime": "2026-07-25T20:00:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0216",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-anton-jonathan",
+        "startTime": "2026-07-25T20:00:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0217",
+        "stageId": "stage-garage",
+        "artistId": "art-diggi-daniel",
+        "startTime": "2026-07-25T20:15:00.000Z",
+        "endTime": "2026-07-25T20:55:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0218",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-tino-machauer",
+        "startTime": "2026-07-25T20:30:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0219",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-cael-dj-kreatin",
+        "startTime": "2026-07-25T20:30:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0220",
+        "stageId": "stage-xberg",
+        "artistId": "art-pa69",
+        "startTime": "2026-07-25T21:00:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0221",
+        "stageId": "stage-motel53",
+        "artistId": "art-dj-taige",
+        "startTime": "2026-07-25T21:00:00.000Z",
+        "endTime": "2026-07-25T22:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0222",
+        "stageId": "stage-garage",
+        "artistId": "art-stimulus",
+        "startTime": "2026-07-25T21:15:00.000Z",
+        "endTime": "2026-07-25T22:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0223",
+        "stageId": "stage-strand",
+        "artistId": "art-georgia-bird-b2b-smuseb",
+        "startTime": "2026-07-25T22:00:00.000Z",
+        "endTime": "2026-07-26T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0224",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-andy-martin",
+        "startTime": "2026-07-25T22:00:00.000Z",
+        "endTime": "2026-07-26T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0225",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-dj-northern",
+        "startTime": "2026-07-25T22:00:00.000Z",
+        "endTime": "2026-07-26T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0226",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-module-one",
+        "startTime": "2026-07-25T22:00:00.000Z",
+        "endTime": "2026-07-25T23:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0227",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-dj-babyblade-b2b-talia-dorr",
+        "startTime": "2026-07-25T22:00:00.000Z",
+        "endTime": "2026-07-26T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0228",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-rico-r",
+        "startTime": "2026-07-25T22:00:00.000Z",
+        "endTime": "2026-07-25T23:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0229",
+        "stageId": "stage-xberg",
+        "artistId": "art-hitgiganten",
+        "startTime": "2026-07-25T22:15:00.000Z",
+        "endTime": "2026-07-25T23:30:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0230",
+        "stageId": "stage-motel53",
+        "artistId": "art-katta-lana-brauer-live",
+        "startTime": "2026-07-25T22:30:00.000Z",
+        "endTime": "2026-07-26T00:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0231",
+        "stageId": "stage-garage",
+        "artistId": "art-oran-ray",
+        "startTime": "2026-07-25T22:30:00.000Z",
+        "endTime": "2026-07-25T23:30:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0232",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-niuee",
+        "startTime": "2026-07-25T23:00:00.000Z",
+        "endTime": "2026-07-26T01:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0233",
+        "stageId": "stage-manege",
+        "artistId": "art-die-hechtis",
+        "startTime": "2026-07-25T23:00:00.000Z",
+        "endTime": "2026-07-26T00:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0234",
+        "stageId": "stage-xberg",
+        "artistId": "art-cashmiri",
+        "startTime": "2026-07-25T23:30:00.000Z",
+        "endTime": "2026-07-26T01:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0235",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-van-ree",
+        "startTime": "2026-07-25T23:30:00.000Z",
+        "endTime": "2026-07-26T01:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0236",
+        "stageId": "stage-strand",
+        "artistId": "art-dj-heartstring",
+        "startTime": "2026-07-26T00:00:00.000Z",
+        "endTime": "2026-07-26T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0237",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-lyza",
+        "startTime": "2026-07-26T00:00:00.000Z",
+        "endTime": "2026-07-26T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0238",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-cosmo",
+        "startTime": "2026-07-26T00:00:00.000Z",
+        "endTime": "2026-07-26T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0239",
+        "stageId": "stage-motel53",
+        "artistId": "art-lenny-fuck",
+        "startTime": "2026-07-26T00:00:00.000Z",
+        "endTime": "2026-07-26T01:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0240",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-eliahaze-b2b-lenard-klein",
+        "startTime": "2026-07-26T00:00:00.000Z",
+        "endTime": "2026-07-26T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0241",
+        "stageId": "stage-manege",
+        "artistId": "art-hitparaden-helga-b2b-katze",
+        "startTime": "2026-07-26T00:30:00.000Z",
+        "endTime": "2026-07-26T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0242",
+        "stageId": "stage-xberg",
+        "artistId": "art-bipolar-soundsystem-b2b-gria",
+        "startTime": "2026-07-26T01:00:00.000Z",
+        "endTime": "2026-07-26T02:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0243",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-tosh-davids",
+        "startTime": "2026-07-26T01:00:00.000Z",
+        "endTime": "2026-07-26T03:00:00.000Z",
+        "type": "Live"
+      },
+      {
+        "id": "perf-0244",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-paula-hilton",
+        "startTime": "2026-07-26T01:00:00.000Z",
+        "endTime": "2026-07-26T02:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0245",
+        "stageId": "stage-motel53",
+        "artistId": "art-eurobabes",
+        "startTime": "2026-07-26T01:30:00.000Z",
+        "endTime": "2026-07-26T03:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0246",
+        "stageId": "stage-strand",
+        "artistId": "art-alfandi-b2b-cmk",
+        "startTime": "2026-07-26T02:00:00.000Z",
+        "endTime": "2026-07-26T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0247",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-mascha-b2b-red-rooms",
+        "startTime": "2026-07-26T02:00:00.000Z",
+        "endTime": "2026-07-26T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0248",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-lia",
+        "startTime": "2026-07-26T02:00:00.000Z",
+        "endTime": "2026-07-26T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0249",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-kontronatura",
+        "startTime": "2026-07-26T02:00:00.000Z",
+        "endTime": "2026-07-26T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0250",
+        "stageId": "stage-manege",
+        "artistId": "art-josi-schulz",
+        "startTime": "2026-07-26T02:00:00.000Z",
+        "endTime": "2026-07-26T03:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0251",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-smokey-b2b-moonwalker",
+        "startTime": "2026-07-26T02:30:00.000Z",
+        "endTime": "2026-07-26T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0252",
+        "stageId": "stage-motel53",
+        "artistId": "art-dj-buona-sara-b2b-dj-fucks-himself",
+        "startTime": "2026-07-26T03:00:00.000Z",
+        "endTime": "2026-07-26T04:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0253",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-al-hut",
+        "startTime": "2026-07-26T03:00:00.000Z",
+        "endTime": "2026-07-26T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0254",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-vincent-neumann",
+        "startTime": "2026-07-26T04:00:00.000Z",
+        "endTime": "2026-07-26T07:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0255",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-posi-flo",
+        "startTime": "2026-07-26T04:00:00.000Z",
+        "endTime": "2026-07-26T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0256",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-goga-vlu",
+        "startTime": "2026-07-26T04:00:00.000Z",
+        "endTime": "2026-07-26T05:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0257",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-cherolainne",
+        "startTime": "2026-07-26T04:00:00.000Z",
+        "endTime": "2026-07-26T06:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0258",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-magma-gambi-b2b-ayacogu",
+        "startTime": "2026-07-26T05:30:00.000Z",
+        "endTime": "2026-07-26T07:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0259",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-porzellan-bar-crew",
+        "startTime": "2026-07-26T06:00:00.000Z",
+        "endTime": "2026-07-26T08:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0260",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-sa-da",
+        "startTime": "2026-07-26T07:00:00.000Z",
+        "endTime": "2026-07-26T09:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0261",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-dj-killing",
+        "startTime": "2026-07-26T08:00:00.000Z",
+        "endTime": "2026-07-26T10:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0262",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-inka",
+        "startTime": "2026-07-26T09:00:00.000Z",
+        "endTime": "2026-07-26T11:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0263",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-heinz-ficktion",
+        "startTime": "2026-07-26T10:00:00.000Z",
+        "endTime": "2026-07-26T12:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0264",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-flinta-open-decks",
+        "startTime": "2026-07-26T10:00:00.000Z",
+        "endTime": "2026-07-26T14:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0265",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-tanya-kreideweis",
+        "startTime": "2026-07-26T11:00:00.000Z",
+        "endTime": "2026-07-26T13:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0266",
+        "stageId": "stage-dampfer",
+        "artistId": "art-peter-pivo-daniel-bade",
+        "startTime": "2026-07-26T11:00:00.000Z",
+        "endTime": "2026-07-26T12:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0267",
+        "stageId": "stage-manege",
+        "artistId": "art-berlinbooth-podcast",
+        "startTime": "2026-07-26T11:30:00.000Z",
+        "endTime": "2026-07-26T13:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0268",
+        "stageId": "stage-strand",
+        "artistId": "art-lara-fein",
+        "startTime": "2026-07-26T12:00:00.000Z",
+        "endTime": "2026-07-26T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0269",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-timo",
+        "startTime": "2026-07-26T12:00:00.000Z",
+        "endTime": "2026-07-26T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0270",
+        "stageId": "stage-motel53",
+        "artistId": "art-karline",
+        "startTime": "2026-07-26T12:00:00.000Z",
+        "endTime": "2026-07-26T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0271",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-praise-b2b-maummau",
+        "startTime": "2026-07-26T12:00:00.000Z",
+        "endTime": "2026-07-26T14:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0272",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-edlef",
+        "startTime": "2026-07-26T13:00:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0273",
+        "stageId": "stage-strand",
+        "artistId": "art-dj-eivissa",
+        "startTime": "2026-07-26T14:00:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0274",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-idu-berg-b2b-vale",
+        "startTime": "2026-07-26T14:00:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0275",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-tom-ries",
+        "startTime": "2026-07-26T14:00:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0276",
+        "stageId": "stage-motel53",
+        "artistId": "art-carl-hang",
+        "startTime": "2026-07-26T14:00:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0277",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-caren-callas",
+        "startTime": "2026-07-26T14:00:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0278",
+        "stageId": "stage-manege",
+        "artistId": "art-theatergruppe-p14",
+        "startTime": "2026-07-26T14:00:00.000Z",
+        "endTime": "2026-07-26T15:30:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0279",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-mille-heinair",
+        "startTime": "2026-07-26T14:30:00.000Z",
+        "endTime": "2026-07-26T16:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0280",
+        "stageId": "stage-strand",
+        "artistId": "art-fraenz",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0281",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-cecilia-tosh",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0282",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-klix",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0283",
+        "stageId": "stage-motel53",
+        "artistId": "art-hello-sasy",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T18:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0284",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-delulu-flo-van-fun",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0285",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-heimlich-knu-ller",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0286",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-benjamin-stahl",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T17:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0287",
+        "stageId": "stage-manege",
+        "artistId": "art-spree-vom-weizen",
+        "startTime": "2026-07-26T16:00:00.000Z",
+        "endTime": "2026-07-26T20:00:00.000Z",
+        "type": "Rahmenprogramm"
+      },
+      {
+        "id": "perf-0288",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-heino-jetztmann",
+        "startTime": "2026-07-26T17:30:00.000Z",
+        "endTime": "2026-07-26T19:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0289",
+        "stageId": "stage-strand",
+        "artistId": "art-doudou-md",
+        "startTime": "2026-07-26T18:00:00.000Z",
+        "endTime": "2026-07-26T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0290",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-josiane",
+        "startTime": "2026-07-26T18:00:00.000Z",
+        "endTime": "2026-07-26T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0291",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-thilini",
+        "startTime": "2026-07-26T18:00:00.000Z",
+        "endTime": "2026-07-26T20:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0292",
+        "stageId": "stage-motel53",
+        "artistId": "art-anatoli",
+        "startTime": "2026-07-26T18:00:00.000Z",
+        "endTime": "2026-07-26T19:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0293",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-em-vi",
+        "startTime": "2026-07-26T19:00:00.000Z",
+        "endTime": "2026-07-26T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0294",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-jo-rdiis-b2b-frehsax",
+        "startTime": "2026-07-26T19:00:00.000Z",
+        "endTime": "2026-07-26T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0295",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-first-graders",
+        "startTime": "2026-07-26T19:00:00.000Z",
+        "endTime": "2026-07-26T20:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0296",
+        "stageId": "stage-motel53",
+        "artistId": "art-miguel-a-ngel",
+        "startTime": "2026-07-26T19:30:00.000Z",
+        "endTime": "2026-07-26T21:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0297",
+        "stageId": "stage-strand",
+        "artistId": "art-sally-c",
+        "startTime": "2026-07-26T20:00:00.000Z",
+        "endTime": "2026-07-26T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0298",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-boris-davy",
+        "startTime": "2026-07-26T20:00:00.000Z",
+        "endTime": "2026-07-26T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0299",
+        "stageId": "stage-spa-ti36",
+        "artistId": "art-hinnack-daddycation",
+        "startTime": "2026-07-26T20:30:00.000Z",
+        "endTime": "2026-07-26T22:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0300",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-marie-montexier",
+        "startTime": "2026-07-26T21:00:00.000Z",
+        "endTime": "2026-07-27T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0301",
+        "stageId": "stage-motel53",
+        "artistId": "art-l300",
+        "startTime": "2026-07-26T21:00:00.000Z",
+        "endTime": "2026-07-26T22:30:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0302",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-fahed-helmut",
+        "startTime": "2026-07-26T21:00:00.000Z",
+        "endTime": "2026-07-26T23:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0303",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-lulu-nell",
+        "startTime": "2026-07-26T22:00:00.000Z",
+        "endTime": "2026-07-27T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0304",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-kiku",
+        "startTime": "2026-07-26T22:00:00.000Z",
+        "endTime": "2026-07-27T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0305",
+        "stageId": "stage-motel53",
+        "artistId": "art-noxy",
+        "startTime": "2026-07-26T22:30:00.000Z",
+        "endTime": "2026-07-27T00:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0306",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-nancy-nebel-b2b-toni-pommrich",
+        "startTime": "2026-07-26T23:00:00.000Z",
+        "endTime": "2026-07-27T01:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0307",
+        "stageId": "stage-hohe-du-ne",
+        "artistId": "art-yanamaste",
+        "startTime": "2026-07-27T00:00:00.000Z",
+        "endTime": "2026-07-27T03:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0308",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-monti",
+        "startTime": "2026-07-27T00:00:00.000Z",
+        "endTime": "2026-07-27T02:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0309",
+        "stageId": "stage-zauberwald",
+        "artistId": "art-sova",
+        "startTime": "2026-07-27T00:00:00.000Z",
+        "endTime": "2026-07-27T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0310",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-derjonny-x-patek",
+        "startTime": "2026-07-27T01:00:00.000Z",
+        "endTime": "2026-07-27T03:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0311",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-dj-zbb",
+        "startTime": "2026-07-27T02:00:00.000Z",
+        "endTime": "2026-07-27T04:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0312",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-vincent-hellkuhl",
+        "startTime": "2026-07-27T03:00:00.000Z",
+        "endTime": "2026-07-27T05:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0313",
+        "stageId": "stage-lichterwalde",
+        "artistId": "art-rasho",
+        "startTime": "2026-07-27T04:00:00.000Z",
+        "endTime": "2026-07-27T07:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0314",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-mamichula",
+        "startTime": "2026-07-27T05:00:00.000Z",
+        "endTime": "2026-07-27T07:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0315",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-steve-challier-b2b-christopher-lawrenz",
+        "startTime": "2026-07-27T07:00:00.000Z",
+        "endTime": "2026-07-27T09:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0316",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-britta-arnold",
+        "startTime": "2026-07-27T09:00:00.000Z",
+        "endTime": "2026-07-27T11:00:00.000Z",
+        "type": "DJ"
+      },
+      {
+        "id": "perf-0317",
+        "stageId": "stage-wagenburg",
+        "artistId": "art-kid-simius",
+        "startTime": "2026-07-27T11:00:00.000Z",
+        "endTime": "2026-07-27T13:00:00.000Z",
+        "type": "DJ"
+      }
+    ],
+    "pois": [],
+    "seedVersion": 1784324789181
+  }
+]
