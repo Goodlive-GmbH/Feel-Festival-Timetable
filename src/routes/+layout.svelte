@@ -28,7 +28,13 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href="{favicon}" />
+	<title>Feel Festival Timetable</title>
+	<meta
+		name="description"
+		content="Feel Festival 2026 - Timetable und Festival Map"
+	/>
+
+	<link rel="icon" href={favicon} />
 	{@html webManifestLink}
 </svelte:head>
 {@render children()}
