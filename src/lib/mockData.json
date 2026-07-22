@@ -1,11 +1,11 @@
 [
   {
-    "stages": [
+   "stages": [
       {
         "id": "stage-dampfer",
         "name": "Dampfer",
         "color": "bg-fest-blue",
-        "order": 9,
+        "order": 11,
         "x": 0.390,
         "y": 0.772
       },
@@ -13,7 +13,7 @@
         "id": "stage-garage",
         "name": "Garage",
         "color": "bg-fest-dark-teal",
-        "order": 11,
+        "order": 7,
         "x": 0.462,
         "y": 0.570
       },
@@ -21,7 +21,7 @@
         "id": "stage-hohe-du-ne",
         "name": "Hohe Düne",
         "color": "bg-fest-teal",
-        "order": 0,
+        "order": 2,
         "x": 0.996,
         "y": 0.655
       },
@@ -29,7 +29,7 @@
         "id": "stage-lichterwalde",
         "name": "Lichterwalde",
         "color": "bg-fest-green-teal",
-        "order": 3,
+        "order": 4,
         "x": 0.752,
         "y": 0.351
       },
@@ -37,7 +37,7 @@
         "id": "stage-manege",
         "name": "Manege",
         "color": "bg-fest-beige",
-        "order": 10,
+        "order": 9,
         "x": 0.73,
         "y": 0.395
       },
@@ -45,7 +45,7 @@
         "id": "stage-motel53",
         "name": "Motel53",
         "color": "bg-fest-turquoise",
-        "order": 5,
+        "order": 3,
         "x": 0.982,
         "y": 0.546
       },
@@ -53,7 +53,7 @@
         "id": "stage-rakete",
         "name": "Rakete",
         "color": "bg-fest-blue",
-        "order": 8,
+        "order": 15,
         "x": 0.607,
         "y": 0.335
       },
@@ -61,7 +61,7 @@
         "id": "stage-spa-ti36",
         "name": "Späti36",
         "color": "bg-fest-dark-teal",
-        "order": 6,
+        "order": 8,
         "x": 0.668,
         "y": 0.350
       },
@@ -69,7 +69,7 @@
         "id": "stage-strand",
         "name": "Strand",
         "color": "bg-fest-teal",
-        "order": 2,
+        "order": 1,
         "x": 0.390,
         "y": 0.607
       },
@@ -77,7 +77,7 @@
         "id": "stage-wagenburg",
         "name": "Wagenburg",
         "color": "bg-fest-green-teal",
-        "order": 1,
+        "order": 5,
         "x": 0.640,
         "y": 0.478
       },
@@ -85,7 +85,7 @@
         "id": "stage-xberg",
         "name": "Xberg",
         "color": "bg-fest-beige",
-        "order": 7,
+        "order": 0,
         "x": 0.591,
         "y": 0.381
       },
@@ -93,9 +93,41 @@
         "id": "stage-zauberwald",
         "name": "Zauberwald",
         "color": "bg-fest-turquoise",
-        "order": 4,
+        "order": 6,
         "x": 0.624,
         "y": 0.269
+      },
+      {
+        "id": "stage-baumschule",
+        "name": "Baumschule",
+        "color": "bg-fest-green-teal",
+        "order": 10,
+        "x": 0.835,
+        "y": 0.377
+      },
+      {
+        "id": "stage-camp-carlowitz",
+        "name": "Camp Carlowitz",
+        "color": "bg-fest-beige",
+        "order": 12,
+        "x": 0.606,
+        "y": 0.414
+      },
+      {
+        "id": "stage-friemelfabrik",
+        "name": "Friemelfabrik",
+        "color": "bg-fest-teal",
+        "order": 13,
+        "x": 0.604,
+        "y": 0.456
+      },
+      {
+        "id": "stage-kino",
+        "name": "Kino",
+        "color": "bg-fest-turquoise",
+        "order": 14,
+        "x": 0.692,
+        "y": 0.279
       }
     ],
     "artists": [
