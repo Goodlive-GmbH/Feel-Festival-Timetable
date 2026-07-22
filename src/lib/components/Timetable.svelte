@@ -675,8 +675,10 @@
 							<h3 class="font-neo-heading text-lg font-bold uppercase {listStyle.text} break-words">
 								{getArtistName(perf.artistId)}
 							</h3>
-							{#if genre}
-								<span class="text-sm font-bold {listStyle.genre} uppercase tracking-wider">{genre}</span>
+							{#if SHOW_GENRE && genre}
+								<span class="text-sm font-bold {listStyle.genre} uppercase tracking-wider">
+									{genre}
+								</span>
 							{/if}
 						</div>
 						<button 
