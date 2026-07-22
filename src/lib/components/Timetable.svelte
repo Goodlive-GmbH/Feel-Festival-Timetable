@@ -90,7 +90,7 @@
 	let totalChunks = $derived(Math.ceil((gridEnd - gridStart) / (1000 * 60 * CHUNK_SIZE_MINUTES)));
 	let rowHeight = $state(70);
 
-	let minChunkPx = $derived(Math.max(12, Math.round(18 - (rowHeight - 60) * (8 / 60))));
+	let minChunkPx = $derived(Math.max(15, Math.round(18 - (rowHeight - 60) * (8 / 60))));
 
 	$effect(() => {
 		if (chunkPixelSize < minChunkPx) {
