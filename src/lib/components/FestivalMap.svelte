@@ -552,13 +552,7 @@
 <div class="relative h-full w-full bg-fest-dark-teal">
 	<div bind:this={mapContainer} class="leaflet-container-dark z-0 h-full w-full"></div>
 
-	<!-- {#if mouseCoord}
-		<div
-			class="pointer-events-none absolute left-2 top-2 z-[500] rounded bg-black/70 px-2 py-1 font-mono text-xs text-fest-turquoise"
-		>
-			{mouseCoord.x.toFixed(5)}, {mouseCoord.y.toFixed(5)}
-		</div>
-	{/if} -->
+	<!-- Debug coordinate picker disabled -->
 
 	<div class="absolute right-4 bottom-4 z-[400] flex flex-col items-end gap-2">
 		{#if placeMode}
