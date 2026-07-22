@@ -616,8 +616,10 @@
 							<span class="inline-block scale-y-[0.85]">{#if isFav}♥&#xFE0E;{:else}♡&#xFE0E;{/if}</span>
 						</button>
 					</div>
-					{#if genre}
-						<span class="text-[8px] font-semibold {gridStyle.genre} uppercase tracking-wider">{genre}</span>
+					{#if SHOW_GENRE && genre}
+						<span class="text-[8px] font-semibold {gridStyle.genre} uppercase tracking-wider">
+							{genre}
+						</span>
 					{/if}
 					<div class="text-[9px] mt-auto flex items-end justify-between gap-1 {gridStyle.text}/80">
 						<span class="font-semibold">{new Date(perf.startTime).toLocaleTimeString('de-DE', {hour: '2-digit', minute:'2-digit'})} - {new Date(perf.endTime).toLocaleTimeString('de-DE', {hour: '2-digit', minute:'2-digit'})}</span>
