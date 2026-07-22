@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { Performance, Artist, Stage } from '$lib/types';
+	import { SHOW_GENRE } from '$lib/featureFlags';
 
 	let {
 		performance,
@@ -63,7 +64,7 @@
 				>
 					{artist?.name ?? 'Unknown Artist'}
 				</h2>
-				{#if artist?.genre}
+				{#if SHOW_GENRE && artist?.genre}
 					<span class="text-sm font-bold uppercase tracking-wider {genreClass}">
 						{artist.genre}
 					</span>
