@@ -5,6 +5,7 @@
 	import type { Stage, Artist, Performance } from '$lib/types';
 	import { selectedPerformanceId, selectedStageId, dbReloadSignal } from '$lib/store';
 	import PerformanceDetail from './PerformanceDetail.svelte';
+	import { SHOW_GENRE } from '$lib/featureFlags';
 
 	let stages = $state<Stage[]>([]);
 	let artists = $state<Artist[]>([]);
